@@ -69,20 +69,21 @@ body{
 	height: auto;
  	position:fixed;
  	left: 0px;
-	top: 50px;
+	top: 70px;
 	 
 }
 #nav .list{
 	position: absolute;
 	width: 100%;
 	top : 0px;
-	left: 0px;
+	left: -40px;
+	list-style:none;
+ 	overflow:hidden;
+	margin-top: 40px;
 }
 #nav a{
 	width:100%;
 	display: inline-block;
-	/* height: 16px; */
- 	/* line-height: 16px; */
 	text-align: center;
 	margin-bottom: 10px;
 	color:#82ae46;
@@ -108,20 +109,21 @@ body{
  	border-radius: 5px;
  	left:0px;
  	margin-bottom: 10px;
- 	position:relative;
+	position: relative;
 }
 
 /*上右下左*/ /*高度自适应*/
-.list{
+#content .list{
 	list-style:none;
  	width:auto;
  	overflow:hidden;
-	padding:5px;
-	 
+	margin-top: 40px;
+
  }
+ 
 
 #content li{
-	width: 150px;
+	width: 130px;
  	border:1px solid #82ae46;
  	margin:3px;
  	border-radius: 3px;
@@ -129,18 +131,12 @@ body{
 	padding: 2px;
 }
 
-#content span a{
-	margin-left: 5px;
-	margin-top: -5px;
-	width: 100px;
-	padding: 3px;
-	margin-bottom: 3px;
-	border-radius: 3px;
+#content .title { 
+	position: absolute;
+	left: 20px;
+	top: 20px;
 }
-#content span a{ 
-	background:#82ae46;
-	color: black;
-}
+
 #content span a:hover{ 
 	color:blue;
  	font-weight:bold;
@@ -148,7 +144,6 @@ body{
 
 #nav a, #content a{
 	color:#82ae46;
- 	/* font-size:14px; */
  	display:block;
  	text-decoration:none;
 }
@@ -157,14 +152,3 @@ body{
 	/* font-size: 14px; */
  	font-weight:bold;
 }
-
-
-
-
-#footer{
-	width:100%;
-	text-align:center;
-	font-weight:bold;
-	position: absolute;
-	top: 3000px;
- }

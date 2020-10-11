@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<meat charset="UTF-8">
+<title>影视资源收集</title>
+<style type="text/css">
+	body,h3,ul,li{
+		margin: 0;
+		padding: 0;
+	}
+	h3{
+		text-align: center;
+		margin-bottom: 10px;
+		color: #347EFF;
+		font-weight: bolder;
+	}
+	body{
+		width: 1366px;
+	}
+	#time{
+		color: #347EFF;
+		font-weight: bolder;
+	}
+	ul{
+		width: auto;
+		list-style: none;
+		margin: auto 20px;
+	}
+	li{
+		width: 139px;
+		height: 24px;
+		line-height: 24px;
+		font-size: 16px;
+		float: left;
+		margin:3px;
+		text-align: center;
+		border: 1px solid #82ae46;
+		border-radius: 5px;
+	}
+	li a{
+		text-decoration: none;
+		color: #347EFF;
+		display:block;
+	}
+	li a:hover{
+		color:#0022FF;
+ 		font-weight:bold;
+	}
+</style>
+<script type="text/javascript">
+	window.onload = function(){
+		var time = document.getElementById("time");
+		setInterval(fnTime,1000);
+		fnTime();
+		function fnTime(){
+			var myTime = new Date();
+			var iYear = myTime.getFullYear();
+			var iMon = myTime.getMonth() + 1;
+			var iDate = myTime.getDate();
+			var iWeek = myTime.getDay();
+			var iH = myTime.getHours();
+			var iMin = myTime.getMinutes();
+			var iSec = myTime.getSeconds();
+			var str = "";
+			if( iWeek === 0 ) iWeek = '星期日 Sunday';
+			if( iWeek === 1 ) iWeek = '星期一 Monday';
+			if( iWeek === 2 ) iWeek = '星期二 Tuesday';
+			if( iWeek === 3 ) iWeek = '星期三 Wednesday';
+			if( iWeek === 4 ) iWeek = '星期四 Thursday';
+			if( iWeek === 5 ) iWeek = '星期五 Friday';
+			if( iWeek === 6 ) iWeek = '星期六 Saturday';
+			str = iYear + '年' + fn1(iMon) + '月' + fn1(iDate) + '日 ' + iWeek + ' ' + fn1(iH) + ':' + fn1(iMin) + ':' + fn1(iSec);
+			time.innerHTML = str;
+		}
+		function fn1(n){
+			return n < 10 ? '0' + n:n;
+		}
+
+	}
+</script>
+<body>
+	<div id="time"></div>
+<h3>影视资源收集</h3>
+<ul>
+	<li><a href="https://www.4korange.com" target="_blank">主题支持</a></li>
+	<li><a href="https://epang.ml/" target="_blank">阿房影视</a></li>
+	<li><a href="http://ywtrzm.com/" target="_blank">亿万同人字幕组</a></li>
+	<li><a href="https://www.kuaibo8.com/" title="快播吧" target="_blank">快播吧</a></li>
+	<li><a href="https://dh.ir12.cn/" title="残言导航网" target="_blank">残言导航网</a></li>
+	<li><a href="https://bowang.tv" title="播王TV" target="_blank">播王TV</a></li>
+	<li><a href="http://ci.moefz.cc/" title="萌语动漫" target="_blank">萌语动漫</a></li>
+	<li><a href="http://www.hanjuba.com/" title="韩剧吧" target="_blank">韩剧吧</a></li>
+	<li><a href="http://rrtj.ziye66.com/" title="人人土剧" target="_blank">人人土剧</a></li>
+	<li><a href="https://noisevip.cn/" title="Noise导航" target="_blank">Noise导航</a></li>
+	<li><a href="http://www.jpysvip.net" title="极品影視" target="_blank">极品影視</a></li>
+	<li><a href="https://noisevip.cn/" title="Noise导航" target="_blank">Noise导航</a></li>
+	<li><a href="http://www.kksama.com/" title="萨满影視" target="_blank">萨满影視</a></li>
+	<li><a href="https://www.dandanzan.com/" title="蛋蛋赞影院" target="_blank">蛋蛋赞影院</a></li>
+	<li><a href="https://www.jjmeiju.com/" title="久久美剧" target="_blank">久久美剧</a></li>
+	<li><a href="http://wukongshipin.com/" title="悟空影视" target="_blank">悟空影视</a></li>
+	<li><a href="https://www.adcmove.com/?hao.su" title="ADC电影网" target="_blank">ADC电影网</a></li>
+	<li><a href="http://chaxun.la/" title="查询啦视频" target="_blank">查询啦视频</a></li>
+	<li><a href="https://www.ygdy8.com/index.html" title="阳光电影" target="_blank">阳光电影</a></li>
+	<li><a href="https://www.domp4.com/" target="_blank">domp4</a></li>
+	<li><a href="http://www.kakadm.com/anime/2404/13/" target="_blank">kakam</a></li>
+	<li><a href="http://tonikawa.com/movie/" target="_blank">tonikawa</a></li>
+	<li><a href="http://52.68.96.58/" target="_blank">刀剑神域</a></li>
+	<li><a href="https://www.4kdy.net/4kdyplay/6421_0_0.html" target="_blank">4kdy</a></li>
+	<li><a href="https://k1080.net/?hao.su" target="_blank" title="1080影视">1080影视</a></li>
+	<li><a href="https://cokemv.cn/" target="_blank" title="COKEMV影视">COKEMV影视</a></li>
+	<li><a href="https://www.chaospace.fun/" target="_blank" title="CHAOSPACE–蓝光影视">CHAOSPACE</a></li>
+	<li><a href="https://www.nfmovies.com/" target="_blank">奈菲影视</a></li>
+	<li><a href="https://www.tzfile.com/" target="_blank">团长资源</a></li>
+	<li><a href="https://90r.cc/" target="_blank" title="九零影院">九零影院</a></li>
+    <li><a href="http://www.ibttt.net/" target="_blank" title="爱BT影视">爱BT影视</a></li>
+    <li><a href="https://www.zxzj.me/" target="_blank" title="在线之家">在线之家</a></li>
+    <li><a href="http://www.pianba.tv/?hao.su" target="_blank" title="片吧">片吧</a></li>
+    <li><a href="https://www.pianku.tv/?hao.su" target="_blank" title="片库">片库</a></li>
+    <li><a href="https://wanmeikk.me" target="_blank" title="完美看看">完美看看</a></li>
+    <li><a href="https://www.xbl100.com/" target="_blank" title="小部落">小部落</a></li>
+    <li><a href="https://www.jjmeiju.com/" target="_blank" title="久久美剧">久久美剧</a></li>
+    <li><a href="https://www.btdx8.com/" target="_blank" title="BT大雄">BT大雄</a></li>
+    <li><a href="https://www.bd-film.cc/" target="_blank" title="最新高清电影资源免费下载">BD影视分享</a></li>
+</ul>
+</body>
+</html>

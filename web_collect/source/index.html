@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>video</title>
+<style type="text/css">
+h3{
+        text-align: center;
+}
+li{
+        line-height:36px;
+        width:580px;
+        height:36px;
+        float:left;
+        margin:5px 35px 5px 5px;
+        border:1px solid blue;
+        border-radius:5px;
+        text-align:center;
+
+}
+li a{
+        text-decoration:none;
+}
+</style>
+<script type="text/javascript" src="js/data.js"></script>
+<script type="text/javascript">
+        window.onload = function(){
+                var oH3 = document.createElement('h3');
+                var oBody = document.body;
+                var str = '';
+                for (var i = 0; i < arr.length; i++) {
+                        str += '<li><a href="'+ arr[i].href +'" title="'+ arr[i].cont +'" target="_blank">'+ arr[i].cont +'</a></li>';
+                }
+                var oOl =  document.createElement('ol');
+                setInterval(function(){
+                oH3.innerHTML ='video ' + new Date();
+                },1000)
+                oBody.appendChild(oH3);
+                oOl.innerHTML = str;
+                oBody.appendChild(oOl);
+        }
+</script>
+</head>
+<body>
+</body>
+</html>

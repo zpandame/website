@@ -244,8 +244,60 @@ var arr = [
         "cont":"4kgod"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://liber3.eth.limo/#/",
+        "cont":"书籍下载"
+    },
+    {
+        "href":"http://www.53bk.com/Baokan/",
+        "cont":"报刊"
+    },
+    {
+        "href":"https://www.rustc.cloud/mac-install",
+        "cont":"mac装机推荐"
+    },
+    {
+        "href":"https://www.7sbook.com/",
+        "cont":"传硕公版书"
+    },
+    {
+        "href":"https://shuge.org/",
+        "cont":"书格"
+    },
+    {
+        "href":"https://kgbook.com/",
+        "cont":"苦瓜书盘"
+    },
+    {
+        "href":"https://sobooks.net/",
+        "cont":"SoBook"
+    },
+    {
+        "href":"https://yabook.org/",
+        "cont":"雅书"
+    },
+    {
+        "href":"https://freembook.com/",
+        "cont":"FreemBook"
+    },
+    {
+        "href":"https://zhiso.top/",
+        "cont":"知搜"
+    },
+    {
+        "href":"http://zxcs.me/",
+        "cont":"知轩藏书"
+    },
+    {
+        "href":"https://www.dalanmei.com/",
+        "cont":"大蓝莓"
+    },
+    {
+        "href":"https://www.freebookcentre.net/",
+        "cont":"freebookcentre"
+    },
+    {
+        "href":"http://r.ftqq.com/lean-side-bussiness/",
+        "cont":"程序员如何优雅地做副业"
     },
     {
         "href":"",

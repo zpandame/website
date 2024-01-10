@@ -308,6 +308,87 @@ var arr = [
         "cont":"方糖气球"
     },
     {
+        "href":"https://www.ziziys.com/",
+        "cont":"子子影视"
+    },
+    {
+        "href":"https://www.nodeseek.com/",
+        "cont":"nodeseek"
+    },
+    {
+        "href":"https://www.i3zh.com/",
+        "cont":"i3综合社区"
+    },
+    {
+        "href":"https://blog.tanglu.me/web-browser/",
+        "cont":"tanglu"
+    },
+    {
+        "href":"https://rp1.ssh.town/",
+        "cont":"web-proxy-online"
+    },
+    {
+        "href":"https://www.thesoulofwind.com/",
+        "cont":"The Soul of Wind"
+    },
+    // 关键词：name: Therese; name: The Soul of Wind; note: Notability(iPad app)
+    {
+        "href":"https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ",
+        "cont":"studytee-Therese"
+    },
+    {
+        "href":"https://gpt4all.io/index.html",
+        "cont":"GPT4All-免费开源 LLM 聊天机器人 无需 GPU 或互联网"
+    },
+    {
+        "href":"https://github.com/nomic-ai/gpt4all",
+        "cont":"nomic-ai"
+    },
+    {
+        "href":"https://fuliba2023.net/tivimate.html",
+        "cont":"拯救网络电视，空壳软件Tivimate+范明明源"
+    },
+    {
+        "href":"https://www.vectorpea.com/",
+        "cont":"在线PhotoShop网页版"
+    },
+    {
+        "href":"https://wallhaven.icu/",
+        "cont":"好看的壁纸网站"
+    },
+    {
+        "href":"https://tv.cctv.com/live/cctv10/",
+        "cont":"央视网页直播"
+    },
+    {
+        "href":"http://live.yj1211.work/index/home/platforms",
+        "cont":"一个整合 哔哩哔哩 / 虎牙 / 斗鱼 / 网易，直播内容的直播网站"
+    },
+    {
+        "href":"https://duanju.one/",
+        "cont":"榜一短剧"
+    },
+    {
+        "href":"https://haoxi.vip/?utm_source=duanju",
+        "cont":"好戏影视"
+    },
+    {
+        "href":"https://www.yuque.com/wikidesign/vngzgk",
+        "cont":"大厂AI实践"
+    },
+    {
+        "href":"https://www.ciligege1.com/",
+        "cont":"资源搜索"
+    },
+    {
+        "href":"https://www.idmchina.net/",
+        "cont":"IDM中文网-Internet Download Manager-IDM下载器"
+    },
+    {
+        "href":"https://alist.lolicon.lol/",
+        "cont":"花月喵梦是一个基于alist搭建的在线资源丰富的私人网盘"
+    },
+    {
         "href":"",
         "cont":""
     },

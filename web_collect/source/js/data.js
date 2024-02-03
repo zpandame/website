@@ -389,6 +389,46 @@ var arr = [
         "cont":"花月喵梦是一个基于alist搭建的在线资源丰富的私人网盘"
     },
     {
+        "href":"https://immersivetranslate.com/docs/sites/",
+        "cont":"沉浸式翻译"
+    },
+    {
+        "href":"https://nav.coolexe.com/",
+        "cont":"阿酷导航"
+    },
+    {
+        "href":"https://www.sharp.cn/node/1210",
+        "cont":"SHARP-移动设备解决方案"
+    },
+    {
+        "href":"https://nav.wsoso.com",
+        "cont":"蓝点网址导航"
+    },
+    {
+        "href":"http://www.biancheng.net/computer/software.html",
+        "cont":"编程帮"
+    },
+    {
+        "href":"http://www.codebaoku.com/",
+        "cont":"编程宝库"
+    },
+    {
+        "href":"https://bbs.yiove.com/",
+        "cont":"Yiove.com"
+    },
+    {
+        "href":"https://github.com/Meroser/IPTV",
+        "cont":"Meroser-IPTV"
+    },
+    {
+        "href":"https://yunyinghui.feishu.cn/docx/Q66RdH4lNoLW7nxSjXBcjcOtnod",
+        "cont":"2024互联网知识地图最全合集"
+    },
+    {
+        "href":"https://www.shukui.net/",
+        "cont":"书葵网"
+    },
+    {
         "href":"",
         "cont":""
     },

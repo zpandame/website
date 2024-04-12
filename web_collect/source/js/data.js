@@ -858,6 +858,10 @@ var arr = [
         "cont":"iptv-sources | Autoupdate iptv sources"
     },
     {
+        "href":"https://quickref.cn/",
+        "cont":"开发人员·速查表"
+    },
+    {
         "href":"",
         "cont":""
     },

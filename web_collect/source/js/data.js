@@ -192,10 +192,6 @@ var arr = [
         "cont":"牛客网公司真题"
     },
     {
-        "href":"https://word-wind.pages.dev/",
-        "cont":"单词之风"
-    },
-    {
         "href":"https://proxyium.com/",
         "cont":"free web proxy-youtube"
     },
@@ -860,6 +856,34 @@ var arr = [
     {
         "href":"https://quickref.cn/",
         "cont":"开发人员·速查表"
+    },
+    {
+        "href":"https://wordforest.cn/",
+        "cont":"单词森林"
+    },
+    {
+        "href":"https://word-wind.pages.dev/",
+        "cont":"单词之风"
+    },
+    {
+        "href":"https://fzk.szlib.com/pc/home",
+        "cont":"苏州图书馆·古籍数据库"
+    },
+    {
+        "href":"https://melodis.co/zh",
+        "cont":"AI·音乐"
+    },
+    {
+        "href":"https://retardphobia.moebh.org/ui/index.html",
+        "cont":"第十AI搜索"
+    },
+    {
+        "href":"https://gitcode.com/",
+        "cont":"GitCode - 开发者的代码家园"
+    },
+    {
+        "href":"https://www.fanshudm.com/",
+        "cont":"番薯动漫_您追番的最佳归属"
     },
     {
         "href":"",

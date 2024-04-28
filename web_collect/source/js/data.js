@@ -926,44 +926,40 @@ var arr = [
         "cont":"Github Users Global Ranking·A"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://www.chatcns.cn/chat",
+        "cont":"科研AI"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://www.arealme.com/cn",
+        "cont":"A Real Me·arealme"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://iptv.vodtv.cn/",
+        "cont":"IPTV.vodtv.cn"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://g.nite07.org/Tao-Boy/IPTV",
+        "cont":"Tao-Boy-IPTV"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://3.jetbra.in/",
+        "cont":"pycharm2021.3.1激活"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://www.jetbrains.com/pycharm/download/other.html",
+        "cont":"pycharm-other-vision"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://gist.github.com/starred",
+        "cont":"gist.github"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://software.3d66.com/",
+        "cont":"3d66.com·软件下载"
     },
     {
-        "href":"",
-        "cont":""
-    },
-    {
-        "href":"",
-        "cont":""
+        "href":"https://www.yutu.cn/",
+        "cont":"羽兔网·软件下载"
     },
     {
         "href":"",

@@ -16,6 +16,46 @@ var arr = [
         "cont":"tencent"
     },
     {
+        "href":"https://www.hifini.com/",
+        "cont":"音乐"
+    },
+    {
+        "href":"https://www.gequbao.com/",
+        "cont":"歌曲宝"
+    },
+    {
+        "href":"http://www.zzzdj.com/",
+        "cont":"先上DJ·音乐网"
+    },
+    {
+        "href":"https://www.kumeiwp.com/",
+        "cont":"网盘共享·酷美网盘"
+    },
+    {
+        "href":"https://www.kugeci.com/",
+        "cont":"酷歌词·歌词"
+    },
+    {
+        "href":"http://www.yinleku.cn/",
+        "cont":"鑫巷子音乐酷"
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
         "href":"",
         "cont":""
     },

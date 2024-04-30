@@ -172,10 +172,6 @@ var arr = [
         "cont":"heygen-AI"
     },
     {
-        "href":"https://web.xn--xhqwov38c.com/",
-        "cont":"化神"
-    },
-    {
         "href":"https://hideip.network/",
         "cont":"web-proxy-online"
     },
@@ -353,22 +349,6 @@ var arr = [
         "cont":"好看的壁纸网站"
     },
     {
-        "href":"https://tv.cctv.com/live/cctv10/",
-        "cont":"央视网页直播"
-    },
-    {
-        "href":"http://live.yj1211.work/index/home/platforms",
-        "cont":"一个整合 哔哩哔哩 / 虎牙 / 斗鱼 / 网易，直播内容的直播网站"
-    },
-    {
-        "href":"https://duanju.one/",
-        "cont":"榜一短剧"
-    },
-    {
-        "href":"https://haoxi.vip/?utm_source=duanju",
-        "cont":"好戏影视"
-    },
-    {
         "href":"https://www.yuque.com/wikidesign/vngzgk",
         "cont":"大厂AI实践"
     },
@@ -437,42 +417,6 @@ var arr = [
         "cont":"N+导航"
     },
     {
-        "href":"https://zhuiyingmao2.com/",
-        "cont":"追影猫"
-    },
-    {
-        "href":"https://dy.town/",
-        "cont":"电影镇"
-    },
-    {
-        "href":"https://yandex.com/",
-        "cont":"yandex"
-    },
-    {
-        "href":"https://www.xsmp3.com/",
-        "cont":"相声随身听"
-    },
-    {
-        "href":"https://www.similarsites.com/",
-        "cont":"similarsites"
-    },
-    {
-        "href":"https://dsxys.pro/",
-        "cont":"大师兄影视"
-    },
-    {
-        "href":"https://ddys.one/",
-        "cont":"低端影视"
-    },
-    {
-        "href":"https://www.novipnoad.net/",
-        "cont":"Novipnoad"
-    },
-    {
-        "href":"https://www.libvio.fun/",
-        "cont":"libvio"
-    },
-    {
         "href":"http://tool.mkblog.cn/",
         "cont":"工具箱"
     },
@@ -492,10 +436,7 @@ var arr = [
         "href":"https://www.chao6rj.top/",
         "cont":"超6软件"
     },
-    {
-        "href":"http://www.kekys.com",
-        "cont":"可可影视"
-    },
+
     {
         "href":"https://linux.do/t/topic/1051",
         "cont":"你们赢了，但我却没有输"
@@ -544,110 +485,7 @@ var arr = [
         "href":"https://www.nite07.com/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD(Onedrive)",
         "cont":"nite07小窝-资源下载"
     },
-    {
-        "href":"https://www.2bt0.com/",
-        "cont":"重点推荐-不太灵影视"
-    },
-    {
-        "href":"https://www.bdys10.com/",
-        "cont":"哔嘀影视"
-    },
-    {
-        "href":"https://www.yinfans.me/",
-        "cont":"音范丝"
-    },
-    {
-        "href":"https://www.btbuluo.net/",
-        "cont":"BT部落"
-    },
-    {
-        "href":"https://www.netfly.tv/",
-        "cont":"奈飞中文网"
-    },
-    {
-        "href":"https://www.imahuatv.com/",
-        "cont":"麻花影视"
-    },
-    {
-        "href":"https://www.haojuwo.com/",
-        "cont":"星辰影院"
-    },
-    {
-        "href":"https://www.xinjuc.com/",
-        "cont":"新剧坊"
-    },
-    {
-        "href":"https://www.mkvdo.com/",
-        "cont":"MK影视"
-    },
-    {
-        "href":"http://100fyy.online/",
-        "cont":"70看看"
-    },
-    {
-        "href":"https://gimy.is/",
-        "cont":"gimy剧迷"
-    },
-    {
-        "href":"https://www.gfys.top/",
-        "cont":"干饭影视网址"
-    },
-    {
-        "href":"https://gfvod.com/",
-        "cont":"干饭影视"
-    },
-    {
-        "href":"https://adys.me/",
-        "cont":"爱迪影视"
-    },
-    {
-        "href":"https://www.cupfox.cc/",
-        "cont":"茶杯狐"
-    },
-    {
-        "href":"https://www.kupian.cc/",
-        "cont":"酷片网"
-    },
-    {
-        "href":"http://kanwu8.com/",
-        "cont":"酷看屋"
-    },
-    {
-        "href":"https://www.yoyys.com/",
-        "cont":"悠云影视"
-    },
-    {
-        "href":"https://www.wuji12.com/",
-        "cont":"无极影视"
-    },
-    {
-        "href":"https://www.xigua28.com/",
-        "cont":"西瓜影视"
-    },
-    {
-        "href":"https://1029yy.com/",
-        "cont":"1029影视"
-    },
-    {
-        "href":"https://www.shipinla.com/",
-        "cont":"视频啦"
-    },
-    {
-        "href":"https://www.4khdr.cn/",
-        "cont":"4K影视"
-    },
-    {
-        "href":"https://tv.cctv.com/live/cctv13/",
-        "cont":"CCTV"
-    },
-    {
-        "href":"https://iui.su/3154/",
-        "cont":"电视直播大全"
-    },
-    {
-        "href":"https://iui.su/531/",
-        "cont":"在线影视收集"
-    },
+
     {
         "href":"https://juejin.cn/post/7184720010563027001",
         "cont":"前端面试准备"
@@ -663,10 +501,6 @@ var arr = [
     {
         "href":"https://qiushuizy.com/",
         "cont":"秋水资源"
-    },
-    {
-        "href":"https://www.bttwo.net/",
-        "cont":"bttwo-ad"
     },
 //镜像站加速
 // https://moeyy.cn/gh-proxy
@@ -689,26 +523,7 @@ var arr = [
         "href":"https://g.nite07.org/fastgh/fgit/releases",
         "cont":"fgit-github加速"
     },
-    {
-        "href":"https://www.netflixgc.com/",
-        "cont":"netflix"
-    },
-    {
-        "href":"https://85128.net/",
-        "cont":"85电影网"
-    },
-    {
-        "href":"https://iptv-org.github.io/",
-        "cont":"iptv-org"
-    },
-    {
-        "href":"https://letou.us/",
-        "cont":"乐透盒子"
-    },
-    {
-        "href":"https://www.potplay.net/potplayer-2024iptv-m3u8",
-        "cont":"potplay-日常分享potplay源地址"
-    },
+
     {
         "href":"https://agit.ai/",
         "cont":"Agit-面向AI发开者-代码托管服务"
@@ -717,26 +532,7 @@ var arr = [
         "href":"https://www.freedidi.com/",
         "cont":"零度解说"
     },
-    {
-        "href":"https://www.mihoyogift.com/?utm_source=bbs&utm_medium=ys&utm_campaign=store",
-        "cont":"米游铺"
-    },
-    {
-        "href":"https://www.kekefx.com/",
-        "cont":"可可分享"
-    },
-    {
-        "href":"https://act.mihoyo.com/ys/app/interactive-map/index.html?lang=zh-cn#/map/2?shown_types=391&center=2008.50,-1084.00&zoom=-2.50",
-        "cont":"原神地图"
-    },
-    {
-        "href":"https://bbs.mihoyo.com/ys/obc/?bbs_presentation_style=no_header",
-        "cont":"米游社·原神"
-    },
-    {
-        "href":"https://bbs.mihoyo.com/ys/obc/channel/map/80/81?bbs_presentation_style=no_header",
-        "cont":"原神·过场动画"
-    },
+
     {
         "href":"https://www.ittel.cn/",
         "cont":"技术之家"
@@ -744,38 +540,6 @@ var arr = [
     {
         "href":"https://web.xml.wiki/",
         "cont":"网络搜索"
-    },
-    {
-        "href":"https://www.right.com.cn/forum/",
-        "cont":"恩山论坛"
-    },
-    {
-        "href":"https://yoyys1.com/",
-        "cont":"悠云影视"
-    },
-    {
-        "href":"https://klyingshi.net/",
-        "cont":"可乐影视"
-    },
-    {
-        "href":"https://zhuiyingmao2.com/",
-        "cont":"追影猫"
-    },
-    {
-        "href":"https://36kdh.com/",
-        "cont":"36K导航"
-    },
-    {
-        "href":"https://1080zyk3.com/",
-        "cont":"优质资源库·内置广告多"
-    },
-    {
-        "href":"https://1029yy.com/",
-        "cont":"1029影院"
-    },
-    {
-        "href":"http://www.doyoudo.com",
-        "cont":"多媒体"
     },
     {
         "href":"http://www.rjzxw.com",
@@ -813,14 +577,7 @@ var arr = [
         "href":"https://cn.bing.com/",
         "cont":"必应"
     },
-    {
-        "href":"https://www.xia2024.com/",
-        "cont":"影视资源下载"
-    },
-    {
-        "href":"https://www.discuz.vip/",
-        "cont":"Discuz社区"
-    },
+
     {
         "href":"https://letsbuild.ai/",
         "cont":"AI导航网站"
@@ -882,10 +639,6 @@ var arr = [
         "cont":"GitCode - 开发者的代码家园"
     },
     {
-        "href":"https://www.fanshudm.com/",
-        "cont":"番薯动漫_您追番的最佳归属"
-    },
-    {
         "href":"https://www.aplaybox.com/login",
         "cont":"模之屋·专业模型创作分享社区"
     },
@@ -896,10 +649,6 @@ var arr = [
     {
         "href":"https://yunyinghui.feishu.cn/wiki/QrvDwaNt4icE2qkZTPSccNKInhh",
         "cont":"互联网知识地图"
-    },
-    {
-        "href":"https://www.ziyedm.com/",
-        "cont":"子夜动漫·A"
     },
     {
         "href":"https://www.guwenshici.com/",

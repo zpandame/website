@@ -1,0 +1,22 @@
+var arr = [
+    {
+        "href":"/website/music/index-music.html",
+        "cont":"music"
+    },
+    {
+        "href":"/website/music/index-kugou.html",
+        "cont":"kugou"
+    },
+    {
+        "href":"/website/music/index-netease.html",
+        "cont":"netease"
+    },
+    {
+        "href":"/website/music/index-tencent.html",
+        "cont":"tencent"
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+];

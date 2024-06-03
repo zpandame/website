@@ -707,8 +707,20 @@ var arr = [
         "cont":"3d66.com·软件下载"
     },
     {
+        "href":"https://official.hideip.network/",
+        "cont":"official.hideip.network"
+    },
+    {
         "href":"https://www.yutu.cn/",
         "cont":"羽兔网·软件下载"
+    },
+    {
+        "href":"https://paste.fastmirror.net/",
+        "cont":"创建文档"
+    },
+    {
+        "href":"https://www.modevol.com/",
+        "cont":"渐构Modevol"
     },
     {
         "href":"",

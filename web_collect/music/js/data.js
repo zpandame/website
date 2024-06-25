@@ -40,6 +40,18 @@ var arr = [
         "cont":"鑫巷子音乐酷"
     },
     {
+        "href":"https://ghyinyue.com/",
+        "cont":"果核音乐"
+    },
+    {
+        "href":"https://splayer.uncley.cc/#/",
+        "cont":"SPlayer"
+    },
+    {
+        "href":"https://github.com/imsyy/SPlayer/releases",
+        "cont":"SPlayer·music"
+    },
+    {
         "href":"",
         "cont":""
     },

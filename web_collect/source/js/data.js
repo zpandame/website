@@ -1070,6 +1070,23 @@ var arr = [
         "cont":"AI科技·信息源"
     },
     {
+        "href":"https://mirrors.tuna.tsinghua.edu.cn/",
+        "cont":"清华大学开源镜像"
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    //2024.06.25
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
         "href":"",
         "cont":""
     },

@@ -51,6 +51,7 @@ var arr = [
         "href":"https://github.com/imsyy/SPlayer/releases",
         "cont":"SPlayer·music"
     },
+    //2024.06.25
     {
         "href":"",
         "cont":""

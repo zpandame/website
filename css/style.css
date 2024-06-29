@@ -4,8 +4,8 @@ html {
 	font-family:宋体;
 	font-size: 14px;
 	text-align: center;
-	line-height: 16px;
-	height: 16px;
+	line-height: 20px;
+	height: 20px;
 	color: red;
 	margin:0;
 	padding:0;
@@ -23,7 +23,7 @@ body{
 	top: 0px;
 	z-index: 200;
 }
-#system_time{ 
+#system_time{
 	position: absolute;
  	left: 5px;
  	top: 5px;
@@ -43,7 +43,7 @@ body{
 	color:red;
 }
 
-.t1{ 
+.t1{
 	overflow:hidden;
  	width: 320px;
  	background:rgba(255, 255, 255, 0);
@@ -64,13 +64,13 @@ body{
 	color:#82ae46;
 	margin-bottom: 5px;
 }
-#nav{ 
+#nav{
 	width:140px;
 	height: auto;
  	position:fixed;
  	left: 0px;
 	top: 70px;
-	 
+
 }
 #nav .list{
 	position: absolute;
@@ -120,7 +120,7 @@ body{
 	margin-top: 40px;
 
  }
- 
+
 
 #content li{
 	width: 130px;
@@ -131,13 +131,13 @@ body{
 	padding: 2px;
 }
 
-#content .title { 
+#content .title {
 	position: absolute;
 	left: 20px;
 	top: 20px;
 }
 
-#content span a:hover{ 
+#content span a:hover{
 	color:blue;
  	font-weight:bold;
 }

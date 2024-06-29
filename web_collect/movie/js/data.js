@@ -248,6 +248,250 @@ var arr = [
         "cont":"子夜动漫·A"
     },
     {
+		"href" : "https://www.dy2018.com/",
+		"cont" : "电影天堂"
+	},
+	{
+		"href" : "https://www.dydytt.net/index.htm",
+		"cont" : "电影天堂"
+	},
+	{
+		"href" : "https://www.lookae.com/",
+		"cont" : "LookAE.com-大众脸影视后期特效"
+	},
+	{
+		"href" : "https://www.naifei6.com/",
+		"cont" : "奈飞影院"
+	},
+	{
+		"href" : "https://4kysxz.top/",
+		"cont" : "4K影视小站"
+	},
+	{
+		"href" : "https://www.oftens.top/",
+		"cont" : "往往影视"
+	},
+	{
+		"href" : "https://ymck.me/",
+		"cont" : "影猫仓库"
+	},
+	{
+		"href" : "https://klyingshi.com/",
+		"cont" : "可乐影视"
+	},
+	{
+		"href" : "https://www.cangkus.com/",
+		"cont" : "经典仓库-音乐影视"
+	},
+	{
+		"href" : "https://www.ygdyw.net/",
+		"cont" : "阳光电影"
+	},
+	{
+		"href" : "https://lgyy.vip/",
+		"cont" : "蓝光影院"
+	},
+	{
+		"href" : "https://www.citydy.com/",
+		"cont" : "城市影院"
+	},
+	{
+		"href" : "https://www.xxys520.com/",
+		"cont" : "小熊影视"
+	},
+	{
+		"href" : "https://www.mfdy.com",
+		"cont" : "MFDY免费电影导航"
+	},
+	{
+		"href" : "https://ymck.me/",
+		"cont" : "影猫の仓库"
+	},
+	{
+		"href" : "https://www.dianyinggou.com/",
+		"cont" : "电影狗"
+	},
+	{
+		"href" : "https://www.ikyy.tv/",
+		"cont" : "爱看影院"
+	},
+	{
+		"href" : "https://www.tjomet.com/",
+		"cont" : "番茄影院"
+	},
+	{
+		"href" : "https://www.ty4k.cn/",
+		"cont" : "天影4K–分享4K影视资源,献给爱电影的你！"
+	},
+	{
+		"href" : "https://www.zhihu4k.com/",
+		"cont" : "纸虎4K影视-专注4K蓝光原盘影视资源"
+	},
+	{
+		"href" : "https://www.taozi007.com/",
+		"cont" : "桃子影视"
+	},
+	{
+		"href" : "https://gaze.run/",
+		"cont" : "注视影视"
+	},
+	{
+		"href" : "https://www.sstv.fun/",
+		"cont" : "速搜影院"
+	},
+	{
+		"href" : "https://www.3ayy.com/",
+		"cont" : "爱看影院"
+	},
+	{
+		"href" : "https://www.yingshi.tv/",
+		"cont" : "影视TV"
+	},
+	{
+		"href" : "https://www.mayi4k.com/",
+		"cont" : "蚂蚁4K"
+	},
+	{
+		"href" : "https://www.4khdr.cn/",
+		"cont" : "4K·HDR世界"
+	},
+	{
+		"href" : "https://newfii.com/",
+		"cont" : "newfii"
+	},
+	{
+		"href" : "https://www.grab4k.com/",
+		"cont" : "grab4k"
+	},
+	{
+		"href" : "https://www.cupfox.app",
+		"cont" : "茶杯狐"
+	},
+	{
+		"href" : "http://www.0430.com/",
+		"cont" : "0430网站库"
+	},
+	{
+		"href" : "https://www.dadagui.me/",
+		"cont" : "达达龟"
+	},
+    {
+        "href":"http://www.snrtv.com/",
+        "title":"陕西网络广播电视台"
+    },
+	{
+		"href" : "https://www.voflix.me/",
+		"cont" : "voflix HD"
+	},
+	{
+		"href" : "http://movie.4kgod.cc/",
+		"cont" : "4kgod"
+	},
+	{
+		"href" : "https://www.genmov.com/",
+		"cont" : "我爱跟剧"
+	},
+	{
+		"href" : "https://www.pkmp4.xyz/",
+		"cont" : "片库"
+	},
+	{
+		"href" : "https://czzy.pro/",
+		"cont" : "厂长资源"
+	},
+	{
+		"href" : "https://www.novipnoad.net/",
+		"cont" : "NO视频"
+	},
+	{
+		"href" : "https://www.zjtu.tv/",
+		"cont" : "追剧兔"
+	},
+	{
+		"href" : "https://abc2022.cn/",
+		"cont" : "怀旧动画"
+	},
+	{
+		"href" : "https://soupian.plus/",
+		"cont" : "搜片.com"
+	},
+	{
+		"href" : "https://www.kkw361.com/",
+		"cont" : "看看屋"
+	},
+	{
+		"href" : "https://www.xinjuc.com/",
+		"cont" : "新剧场"
+	},
+	{
+		"href" : "https://www.4kvm.net",
+		"cont" : "4kvm"
+	},
+	{
+		"href" : "https://www.4kvm.site",
+		"cont" : "4kvm"
+	},
+	{
+		"href" : "https://www.dbmp4.com/",
+		"cont" : "dbmp4"
+	},
+	{
+		"href" : "https://www.05jl.com/",
+		"cont" : "记录片下载"
+	},
+	{
+		"href" : "https://www.24kdh.vip/",
+		"cont" : "24K导航"
+	},
+	{
+		"href" : "https://www.bugutv.org/",
+		"cont" : "布谷TV"
+	},
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
         "href":"",
         "cont":""
     },

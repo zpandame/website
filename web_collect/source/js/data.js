@@ -323,7 +323,7 @@ var arr = [
         "href":"https://www.thesoulofwind.com/",
         "cont":"The Soul of Wind"
     },
-    // 关键词：name: Therese; name: The Soul of Wind; note: Notability(iPad app)
+    // 关键词：name:Therese; name:The Soul of Wind; note:Notability(iPad app)
     {
         "href":"https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ",
         "cont":"studytee-Therese"
@@ -590,10 +590,6 @@ var arr = [
         "cont":"游戏编程模式"
     },
     {
-        "href":"https://sunoai.ai/zh",
-        "cont":"Suno_AI音乐生成器"
-    },
-    {
         "href":"https://aixdownloader.com/",
         "cont":"网页资源下载"
     },
@@ -611,7 +607,7 @@ var arr = [
     },
     {
         "href":"https://quickref.cn/",
-        "cont":"开发人员·速查表"
+        "cont":"A|开发人员·速查表 | Quick Reference"
     },
     {
         "href":"https://wordforest.cn/",
@@ -619,7 +615,7 @@ var arr = [
     },
     {
         "href":"https://word-wind.pages.dev/",
-        "cont":"单词之风"
+        "cont":"A|单词之风"
     },
     {
         "href":"https://fzk.szlib.com/pc/home",
@@ -947,11 +943,11 @@ var arr = [
     //content
     {
         "href":"https://paste.fastmirror.net/",
-        "cont":"创建文档·AAAAA"
+        "cont":"A|创建文档"
     },
     {
         "href":"https://www.modevol.com/",
-        "cont":"渐构Modevol·AAAAA"
+        "cont":"A|渐构Modevol"
     },
     {
         "href":"https://hellogithub.com/",
@@ -1073,37 +1069,402 @@ var arr = [
         "href":"https://mirrors.tuna.tsinghua.edu.cn/",
         "cont":"清华大学开源镜像"
     },
-    {
-        "href":"",
-        "cont":""
-    },
     //2024.06.25
     {
-        "href":"",
-        "cont":""
+        "href":"https://z.etocs.us.kg/",
+        "cont":"电子书下载"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://jpom.top/",
+        "cont":"Jpom项目运维"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://yunpan8.cc/",
+        "cont":"云盘吧"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"http://v.kepu.net.cn/mooc/qb/",
+        "cont":"中国科普博览"
     },
     {
-        "href":"",
-        "cont":""
+        "href":"https://pubscholar.cn/",
+        "cont":"PubScholar公益学术平台"
     },
+    //2024.06.29
     {
-        "href":"",
-        "cont":""
-    },
+		"href":"source/index.html",
+		"cont":"网站收集"
+	},
+	{
+		"href":"/website/web_collect/movie/index.html",
+		"cont":"movie"
+	},
+	{
+		"href":"/website/web_collect/music/index.html",
+		"cont":"music"
+	},
+	{
+		"href":"/website/web_collect/source/index.html",
+		"cont":"soure"
+	},
+	{
+		"href":"/website/web_collect/douyin/index.html",
+		"cont":"soure"
+	},
+	{
+		"href":"https://hideip.network/",
+		"cont":"web-proxy-online"
+	},
+	{
+		"href":"https://macwk.cn/",
+		"cont":"mac-software"
+	},
+	{
+		"href":"https://stackblitz.com/",
+		"cont":"StackBlitz 是一个在线 IDE，您可以通过它快速轻松地在浏览器中创建 Angular、React 和 Vue 等项目。它会自动安装依赖项、编译、捆绑、热重新加载等等"
+	},
+	{
+		"href":"https://www.xue8nav.com/",
+		"cont":"学吧导航 | 四十万学习爱好者都在用的学霸导航网站"
+	},
+	{
+		"href":"https://dalao.ru/",
+		"cont":"元婴"
+	},
+	{
+		"href":"https://www.zuoshipin.com/",
+		"cont":"zuoshipin"
+	},
+	{
+		"href":"https://jianwai.youdao.com/index/0",
+		"cont":"srt字幕翻译"
+	},
+	{
+		"href":"https://labs.heygen.com/guest/video-translate",
+		"cont":"video-translate"
+	},
+	{
+		"href":"https://www.englishclass101.com/",
+		"cont":"englishclass101.com"
+	},
+	{
+		"href":"https://www.bilibili.com/video/BV1Dk4y1q781/?spm_id_from=333.788.recommend_more_video.1&vd_source=19beb856dede8620770a18feaaf13ae2",
+		"cont":"ted700"
+	},
+	{
+		"href":"https://www.bilibili.com/video/BV1Pp4y1C7Rp/?spm_id_from=333.999.0.0&vd_source=19beb856dede8620770a18feaaf13ae2",
+		"cont":"English Words for Every Day"
+	},
+	{
+		"href":"https://www.bilibili.com/list/517809898?sid=2085216&spm_id_from=333.999.0.0&desc=1&oid=704709530&bvid=BV1AQ4y1s7LU",
+		"cont":"English Word Choice Beside vs. Besides English Grammar for Beginners"
+	},
+	{
+		"href":"https://aniwave.to/home",
+		"cont":"aniwave"
+	},
+	{
+		"href":"https://fmoviesz.to/home",
+		"cont":"fmoviesz"
+	},
+	{
+		"href":"https://mangafire.to/home",
+		"cont":"mangafire"
+	},
+	{
+		"href":"https://zorohd.to/home",
+		"cont":"zorohd"
+	},
+	{
+		"href":"https://cloudtts.com/",
+		"cont":"文本阅读"
+	},
+	{
+		"href":"https://ld246.com/",
+		"cont":"链滴 - 记录生活，连接点滴"
+	},
+	{
+		"href":"https://ld246.com/tag/vditor",
+		"cont":"vditor"
+	},
+	{
+		"href":"https://cotrans.touhou.ai/",
+		"cont":"图片翻译"
+	},
+	{
+		"href":"https://m.kekenet.com/",
+		"cont":"可可英语"
+	},
+
+	{
+		"href":"https://www.earthol.com/",
+		"cont":"地球在线"
+	},
+	{
+		"href":"https://redirect.invidious.io/",
+		"cont":"redirect"
+	},
+	{
+		"href":"https://www.5mku.com/",
+		"cont":"吾名软件库"
+	},
+	{
+		"href":"https://gs.colnago.icu/",
+		"cont":"谷歌镜像站"
+	},
+	{
+		"href":"https://www.xiaoermeizai.com/",
+		"cont":"发现好应用"
+	},
+	{
+		"href":"https://wiki.bqrdh.com/naming/great-name",
+		"cont":"起名"
+	},
+
+	{
+		"href":"https://tools.bqrdh.com/chess/",
+		"cont":"象棋"
+	},
+	{
+		"href":"https://tools.bqrdh.com/tetris/",
+		"cont":"俄罗斯方块"
+	},
+	{
+		"href":"https://tools.bqrdh.com/linux-command/",
+		"cont":"linux命令搜索"
+	},
+	{
+		"href":"https://dh.wjsou.com/",
+		"cont":"AI聚合资源搜索引擎"
+	},
+	{
+		"href":"https://mirror.js.org/",
+		"cont":"mirror_google"
+	},
+	{
+		"href":"https://aicodeconvert.com/",
+		"cont":"AI Code Converter"
+	},
+	{
+		"href":"https://caoniang.com/",
+		"cont":"鸡盒导航"
+	},
+	{
+		"href":"http://www.ixinqing.com/",
+		"cont":"心晴网"
+	},
+	{
+		"href":"https://www.zdic.net/",
+		"cont":"漢典"
+	},
+	{
+		"href":"https://open.163.com/",
+		"cont":"网易公开课"
+	},
+	{
+		"href":"https://www.s5t.com/",
+		"cont":"搜网通"
+	},
+	{
+		"href":"https://pdfdrive.to/",
+		"cont":"PDFDrive"
+	},
+	{
+		"href":"https://qread.xmsoushu.com/",
+		"cont":"熊猫速读"
+	},
+	{
+		"href":"https://xmsoushu.com/#/",
+		"cont":"熊猫搜书"
+	},
+	{
+		"href":"https://www.jiumodiary.com/",
+		"cont":"鸠摩搜书"
+	},
+	{
+		"href":"https://tophub.today/",
+		"cont":"今日热榜"
+	},
+	{
+		"href":"https://www.vqs.com/article/4425.html",
+		"cont":"骑士下载"
+	},
+	{
+		"href":"https://toolsdar.com/",
+		"cont":"工具达人"
+	},
+	{
+		"href":"https://www.bgrdh.com/",
+		"cont":"办公导航"
+	},
+	{
+		"href":"https://zbook.lol/",
+		"cont":"zbook"
+	},
+
+	{
+		"href":"https://lanrenao.com/",
+		"cont":"懒人导航"
+	},
+	{
+		"href":"https://www.watchtving.com/",
+		"cont":"watchtving"
+	},
+	{
+		"href":"https://www.bbwiner.com/",
+		"cont":"bbwiner"
+	},
+	{
+		"href":"https://siguso.com/",
+		"cont":"思谷搜 | 一站式聚合搜索神器，浏览器主页"
+	},
+	{
+		"href":"https://sc.panda321.com/",
+		"cont":"熊猫学术-Google scholar"
+	},
+	{
+		"href":"https://developer.aliyun.com/mirror/?utm_content=g_1000303593",
+		"cont":"阿里镜像站"
+	},
+	{
+		"href":"https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/",
+		"cont":"XAMPP"
+	},
+	{
+		"href":"https://noisevip.cn/",
+		"cont":"NOISE宝藏阁"
+	},
+	{
+		"href":"http://www.quanben5.com/amp/",
+		"cont":"免费小说"
+	},
+	{
+		"href":"https://www.libvio.com/",
+		"cont":"libvio.com"
+	},
+	{
+		"href":"https://imyshare.com/",
+		"cont":"精品资源导航"
+	},
+	{
+		"href":"https://www.bqrdh.com/",
+		"cont":"专业导航网站"
+	},
+	{
+		"href":"http://guozhivip.com/",
+		"cont":"果汁导航"
+	},
+	{
+		"href":"https://www.zuh8.com/",
+		"cont":"最U导航"
+	},
+	{
+		"href":"https://36kdh.com/",
+		"cont":"36K导航"
+	},
+	{
+		"href":"https://www.zhil.cc",
+		"cont":"知客导航"
+	},
+	{
+		"href":"https://klyingshi.com/",
+		"cont":"可乐导航"
+	},
+	{
+		"href":"https://kkok.cc/",
+		"cont":"壳壳博客"
+	},
+	{
+		"href":"https://www.wangzhanchi.com/",
+		"cont":"网站大全"
+	},
+	{
+		"href":"https://ttdh.cn/",
+		"cont":"天天导航"
+	},
+	{
+		"href":"https://www.hohovod.com/",
+		"cont":"hohovod"
+	},
+	{
+		"href":"https://toolsdar.com/",
+		"cont":"工具达人"
+	},
+
+	{
+		"href":"https://myflixer.is/home",
+		"cont":"myflixer"
+	},
+	{
+		"href":"https://cddys.vip/",
+		"cont":"cddys"
+	},
+	{
+		"href":"https://toolai.io/zh/",
+		"cont":"AI-TOOL"
+	},
+	{
+		"href":"https://toolai.io",
+		"cont":"AI-TOOL"
+	},
+	{
+		"href":"https://adzhp.xyz/",
+		"cont":"爱达杂货铺"
+	},
+	{
+		"href":"https://rocumentaries.com/",
+		"cont":"纪录片"
+	},
+	{
+		"href":"https://www.zifumao.com/2440.html",
+		"cont":"谷歌镜像站"
+	},
+	{
+		"href":"https://www.22vd.com/75138.html",
+		"cont":"谷歌镜像站"
+	},
+	{
+		"href":"https://ppxzy.net/",
+		"cont":"皮皮虾资源"
+	},
+	{
+		"href":"https://www.24kdh.vip/",
+		"cont":"24K导航"
+	},
+	{
+		"href":"https://word-wind.pages.dev/",
+		"cont":"word-wind"
+	},
     {
-        "href":"",
-        "cont":""
-    },
+		"href":"https://funletu.com/",
+		"title":"趣乐兔"
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
+    {
+		"href":"",
+		"title":""
+	},
 ];

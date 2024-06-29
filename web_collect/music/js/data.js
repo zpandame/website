@@ -51,7 +51,31 @@ var arr = [
         "href":"https://github.com/imsyy/SPlayer/releases",
         "cont":"SPlayer·music"
     },
+    {
+        "href":"https://sunoai.ai/zh",
+        "cont":"Suno_AI音乐生成器"
+    },
     //2024.06.25
+    {
+        "href":"https://music.bestgeek.org/#/",
+        "cont":"极客音乐"
+    },
+    {
+		"href":"https://tools.liumingye.cn/music/#/",
+		"cont":"音乐·tools"
+	},
+    {
+		"href":"https://free-mp3-download.net/",
+		"cont":"free-mp3"
+	},
+    {
+		"href":"https://piano.bqrdh.com/#/",
+		"cont":"钢琴online"
+	},
+    {
+		"href" : "https://music.163.com/#",
+		"cont":"网易云音乐"
+	},
     {
         "href":"",
         "cont":""

@@ -1370,6 +1370,14 @@ var arr = [
         "cont":"实用软件"
     },
     {
+        "href":"https://www.right.com.cn/forum/",
+        "cont":"恩山论坛"
+    },
+    {
+        "href":"http://www.doyoudo.com",
+        "cont":"多媒体"
+    },
+    {
         "href":"https://www.ygxz.in/",
         "cont":"小站之外"
     },

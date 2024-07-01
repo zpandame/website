@@ -8,14 +8,6 @@ var arr = [
         "cont":"一个整合 哔哩哔哩 / 虎牙 / 斗鱼 / 网易，直播内容的直播网站"
     },
     {
-        "href":"https://duanju.one/",
-        "cont":"榜一短剧"
-    },
-    {
-        "href":"https://haoxi.vip/?utm_source=duanju",
-        "cont":"好戏影视"
-    },
-    {
         "href":"https://zhuiyingmao2.com/",
         "cont":"追影猫"
     },
@@ -25,7 +17,7 @@ var arr = [
     },
     {
         "href":"https://yandex.com/",
-        "cont":"yandex"
+        "cont":"yandex | search"
     },
     {
         "href":"https://www.xsmp3.com/",
@@ -44,10 +36,6 @@ var arr = [
         "cont":"低端影视"
     },
     {
-        "href":"https://www.novipnoad.net/",
-        "cont":"Novipnoad"
-    },
-    {
         "href":"https://www.libvio.fun/",
         "cont":"libvio"
     },
@@ -60,16 +48,8 @@ var arr = [
         "cont":"重点推荐-不太灵影视"
     },
     {
-        "href":"https://www.bdys10.com/",
-        "cont":"哔嘀影视"
-    },
-    {
         "href":"https://www.yinfans.me/",
         "cont":"音范丝"
-    },
-    {
-        "href":"https://www.btbuluo.net/",
-        "cont":"BT部落"
     },
     {
         "href":"https://www.netfly.tv/",
@@ -92,16 +72,8 @@ var arr = [
         "cont":"MK影视"
     },
     {
-        "href":"http://100fyy.online/",
-        "cont":"70看看"
-    },
-    {
-        "href":"https://gimy.is/",
+        "href":"https://gimy.ai/",
         "cont":"gimy剧迷"
-    },
-    {
-        "href":"https://www.gfys.top/",
-        "cont":"干饭影视网址"
     },
     {
         "href":"https://gfvod.com/",
@@ -112,20 +84,8 @@ var arr = [
         "cont":"爱迪影视"
     },
     {
-        "href":"https://www.cupfox.cc/",
-        "cont":"茶杯狐"
-    },
-    {
         "href":"https://www.kupian.cc/",
         "cont":"酷片网"
-    },
-    {
-        "href":"http://kanwu8.com/",
-        "cont":"酷看屋"
-    },
-    {
-        "href":"https://www.yoyys.com/",
-        "cont":"悠云影视"
     },
     {
         "href":"https://www.wuji12.com/",
@@ -134,10 +94,6 @@ var arr = [
     {
         "href":"https://www.xigua28.com/",
         "cont":"西瓜影视"
-    },
-    {
-        "href":"https://1029yy.com/",
-        "cont":"1029影视"
     },
     {
         "href":"https://www.shipinla.com/",
@@ -173,7 +129,7 @@ var arr = [
     },
     {
         "href":"https://letou.us/",
-        "cont":"乐透盒子"
+        "cont":"乐透盒子|IPTV"
     },
     {
         "href":"https://www.potplay.net/potplayer-2024iptv-m3u8",
@@ -200,20 +156,8 @@ var arr = [
         "cont":"原神·过场动画"
     },
     {
-        "href":"https://www.right.com.cn/forum/",
-        "cont":"恩山论坛"
-    },
-    {
         "href":"https://yoyys1.com/",
         "cont":"悠云影视"
-    },
-    {
-        "href":"https://klyingshi.net/",
-        "cont":"可乐影视"
-    },
-    {
-        "href":"https://zhuiyingmao2.com/",
-        "cont":"追影猫"
     },
     {
         "href":"https://36kdh.com/",
@@ -228,8 +172,8 @@ var arr = [
         "cont":"1029影院"
     },
     {
-        "href":"http://www.doyoudo.com",
-        "cont":"多媒体"
+        "href":"https://www.pptv06.com/",
+        "cont":"PPTV66"
     },
     {
         "href":"https://www.xia2024.com/",
@@ -252,16 +196,8 @@ var arr = [
 		"cont" : "电影天堂"
 	},
 	{
-		"href" : "https://www.dydytt.net/index.htm",
-		"cont" : "电影天堂"
-	},
-	{
 		"href" : "https://www.lookae.com/",
 		"cont" : "LookAE.com-大众脸影视后期特效"
-	},
-	{
-		"href" : "https://www.naifei6.com/",
-		"cont" : "奈飞影院"
 	},
 	{
 		"href" : "https://4kysxz.top/",
@@ -272,10 +208,6 @@ var arr = [
 		"cont" : "往往影视"
 	},
 	{
-		"href" : "https://ymck.me/",
-		"cont" : "影猫仓库"
-	},
-	{
 		"href" : "https://klyingshi.com/",
 		"cont" : "可乐影视"
 	},
@@ -284,20 +216,8 @@ var arr = [
 		"cont" : "经典仓库-音乐影视"
 	},
 	{
-		"href" : "https://www.ygdyw.net/",
-		"cont" : "阳光电影"
-	},
-	{
 		"href" : "https://lgyy.vip/",
 		"cont" : "蓝光影院"
-	},
-	{
-		"href" : "https://www.citydy.com/",
-		"cont" : "城市影院"
-	},
-	{
-		"href" : "https://www.xxys520.com/",
-		"cont" : "小熊影视"
 	},
 	{
 		"href" : "https://www.mfdy.com",
@@ -307,25 +227,13 @@ var arr = [
 		"href" : "https://ymck.me/",
 		"cont" : "影猫の仓库"
 	},
-	{
-		"href" : "https://www.dianyinggou.com/",
-		"cont" : "电影狗"
-	},
-	{
-		"href" : "https://www.ikyy.tv/",
-		"cont" : "爱看影院"
-	},
-	{
-		"href" : "https://www.tjomet.com/",
-		"cont" : "番茄影院"
-	},
-	{
-		"href" : "https://www.ty4k.cn/",
-		"cont" : "天影4K–分享4K影视资源,献给爱电影的你！"
-	},
+	// {
+	// 	"href" : "https://www.ikyy.tv/",
+	// 	"cont" : "爱看影院"
+	// },
 	{
 		"href" : "https://www.zhihu4k.com/",
-		"cont" : "纸虎4K影视-专注4K蓝光原盘影视资源"
+		"cont" : "纸虎4K影视"
 	},
 	{
 		"href" : "https://www.taozi007.com/",
@@ -334,10 +242,6 @@ var arr = [
 	{
 		"href" : "https://gaze.run/",
 		"cont" : "注视影视"
-	},
-	{
-		"href" : "https://www.sstv.fun/",
-		"cont" : "速搜影院"
 	},
 	{
 		"href" : "https://www.3ayy.com/",
@@ -363,13 +267,9 @@ var arr = [
 		"href" : "https://www.grab4k.com/",
 		"cont" : "grab4k"
 	},
-	{
+    {
 		"href" : "https://www.cupfox.app",
 		"cont" : "茶杯狐"
-	},
-	{
-		"href" : "http://www.0430.com/",
-		"cont" : "0430网站库"
 	},
 	{
 		"href" : "https://www.dadagui.me/",
@@ -384,20 +284,8 @@ var arr = [
 		"cont" : "voflix HD"
 	},
 	{
-		"href" : "http://movie.4kgod.cc/",
-		"cont" : "4kgod"
-	},
-	{
-		"href" : "https://www.genmov.com/",
-		"cont" : "我爱跟剧"
-	},
-	{
 		"href" : "https://www.pkmp4.xyz/",
-		"cont" : "片库"
-	},
-	{
-		"href" : "https://czzy.pro/",
-		"cont" : "厂长资源"
+		"cont" : "片库|七味"
 	},
 	{
 		"href" : "https://www.novipnoad.net/",

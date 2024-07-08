@@ -58,7 +58,7 @@ var arr = [
     //2024.06.25
     {
         "href":"https://music.bestgeek.org/#/",
-        "cont":"极客音乐"
+        "cont":"A|极客音乐"
     },
     {
 		"href":"https://tools.liumingye.cn/music/#/",
@@ -76,6 +76,10 @@ var arr = [
 		"href" : "https://music.163.com/#",
 		"cont":"网易云音乐"
 	},
+    {
+        "href":"https://www.qqyin.com/",
+        "cont":"A|QQ音速网"
+    },
     {
         "href":"",
         "cont":""

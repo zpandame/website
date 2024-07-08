@@ -317,11 +317,11 @@ var arr = [
 	},
 	{
 		"href" : "https://www.4kvm.site",
-		"cont" : "4kvm"
+		"cont" : "A|4kvm"
 	},
 	{
 		"href" : "https://www.dbmp4.com/",
-		"cont" : "dbmp4"
+		"cont" : "A|dbmp4"
 	},
 	{
 		"href" : "https://www.05jl.com/",
@@ -335,6 +335,10 @@ var arr = [
 		"href" : "https://www.bugutv.org/",
 		"cont" : "布谷TV"
 	},
+    {
+        "href":"http://svip.zhuiying.cyou/",
+        "cont":"A|追影视频"
+    },
     {
         "href":"",
         "cont":""

@@ -1431,7 +1431,43 @@ var arr = [
         "cont":"PubScholar公益学术平台"
     },
     //2024.06.29
-
+    {
+        "href":"https://zzz.mihoyo.com/main",
+        "cont":"绝区零"
+    },
+    {
+        "href":"https://zsk.ai/home",
+        "cont":"发现优秀的知识库"
+    },
+    {
+        "href":"https://www.opkfc.com/list",
+        "cont":"A|数字玩家·ChatGPT账号"
+    },
+    {
+        "href":"https://666666.dev/#/",
+        "cont":"IT人必备工具箱"
+    },
+    {
+        "href":"https://www.qqyin.com/",
+        "cont":"A|QQ音速网"
+    },
+    {
+        "href":"https://www.wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118",
+        "cont":"Java知识库网站收集整理"
+    },
+    {
+        "href":"https://www.hello-algo.com/",
+        "cont":"Hello 算法"
+    },
+    {
+        "href":"http://hpc.ncpgr.cn/",
+        "cont":"作重计算平台用户手册"
+    },
+    {
+        "href":"http://svip.zhuiying.cyou/",
+        "cont":"A|追影视频"
+    },
+    //2024.07.08
     {
 		"href":"",
 		"cont":""

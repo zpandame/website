@@ -1437,7 +1437,7 @@ var arr = [
     },
     {
         "href":"https://zsk.ai/home",
-        "cont":"发现优秀的知识库"
+        "cont":"A|发现优秀的知识库"
     },
     {
         "href":"https://www.opkfc.com/list",
@@ -1445,7 +1445,7 @@ var arr = [
     },
     {
         "href":"https://666666.dev/#/",
-        "cont":"IT人必备工具箱"
+        "cont":"A|IT人必备工具箱"
     },
     {
         "href":"https://www.qqyin.com/",
@@ -1468,6 +1468,87 @@ var arr = [
         "cont":"A|追影视频"
     },
     //2024.07.08
+    {
+        "href":"https://www.okday.app/",
+        "cont":"日记软件"
+    },
+    {
+        "href":"https://mumingfang.com/",
+        "cont":"创意坊|霂明坊"
+    },
+    {
+        "href":"https://www.ahhhhfs.com/60035/",
+        "cont":"ChatGPT+MJ+SD – AIGC专题"
+    },
+    {
+        "href":"https://so.gitee.com/",
+        "cont":"Gitee Search - 开源软件搜索"
+    },
+    {
+        "href":"https://js.okten.cn/",
+        "cont":"《JavaScript 权威指南第七版》中英对照"
+    },
+    {
+        "href":"https://keai.cm/",
+        "cont":"A|可爱TV"
+    },
+    {
+        "href":"https://laozhaopianai.com/",
+        "cont":"AI老照片生成器"
+    },
+    {
+        "href":"https://klingai.kuaishou.com/",
+        "cont":"可灵AI-新一代AI创意生产力平台"
+    },
+    {
+        "href":"https://zh.annas-archive.li/",
+        "cont":"安娜的档案|图书下载"
+    },
+    {
+        "href":"https://mgb.abyssdawn.com/#/index",
+        "cont":"情报主页-魔盒"
+    },
+    {
+        "href":"https://tophub.today/c/blog",
+        "cont":"A|今日热榜·专栏"
+    },
+    {
+        "href":"https://techbrood.com/",
+        "cont":"踏得|沉浸式互联网体验和学习门户"
+    },
+    {
+        "href":"https://www.sass.hk/docs/",
+        "cont":"Sass中文网|SCSS"
+    },
+    {
+        "href":"https://kspider.kangert.top/",
+        "cont":"在线可视化爬虫平台"
+    },
+    {
+        "href":"https://ejsoon.win/",
+        "cont":"A|天蒼人頡–發掘好玩事物"
+    },
+    {
+        "href":"https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc",
+        "cont":"英语提升指南"
+    },
+    {
+        "href":"https://flix.center/",
+        "cont":"Flix快传"
+    },
+    {
+        "href":"https://book-db-v1.saltyleo.com/",
+        "cont":"A|SaltyLeo的图书元数据API"
+    },
+    {
+        "href":"https://book.tstrs.me/",
+        "cont":"A|SaltyLeo的书架|图书搜索"
+    },
+    {
+        "href":"https://saltyleo.com/",
+        "cont":"A|SaltyLeo的博客"
+    },
+    // 2024.07.19
     {
 		"href":"",
 		"cont":""

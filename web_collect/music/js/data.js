@@ -80,6 +80,15 @@ var arr = [
         "href":"https://www.qqyin.com/",
         "cont":"A|QQ音速网"
     },
+    // 2024.07.19
+    {
+        "href":"https://wusunk.com/",
+        "cont":"无损库资源|music"
+    },
+    {
+        "href":"https://www.yintu.me/",
+        "cont":"音兔无损|music"
+    },
     {
         "href":"",
         "cont":""

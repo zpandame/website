@@ -1560,6 +1560,10 @@ var arr = [
         "href":"https://saltyleo.com/",
         "cont":"A|SaltyLeo的博客"
     },
+    {
+        "href":"https://www.koodoreader.com/zh",
+        "cont":"A|开源电子阅读|koodo-reader"
+    },
     // 2024.07.19
     {
 		"href":"",

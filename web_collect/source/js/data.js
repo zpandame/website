@@ -7,6 +7,18 @@ var arr = [
 		"href":"/website/web_collect/music/index.html",
 		"cont":"music"
 	},
+    {
+		"href":"/website/note/music.md",
+		"cont":"music.md"
+	},
+    {
+		"href":"/website/note/音乐家.md",
+		"cont":"音乐家.md"
+	},
+    {
+		"href":"/website/note/时间越来越快的原因.md",
+		"cont":"时间越来越快的原因.md"
+	},
 	{
 		"href":"https://hideip.network/",
 		"cont":"web-proxy-online"

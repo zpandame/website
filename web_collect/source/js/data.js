@@ -25,7 +25,11 @@ var arr = [
 	},
 	{
 		"href":"https://macwk.cn/",
-		"cont":"mac-software"
+		"cont":"A|mac-software"
+	},
+    {
+		"href":"https://www.bmabk.com/",
+		"cont":"A|极客之音"
 	},
 	{
 		"href":"https://stackblitz.com/",
@@ -819,15 +823,15 @@ var arr = [
     },
     {
         "href":"https://www.bmabk.com/index.php/post/73251.html",
-        "cont":"解决git clone 速度慢"
+        "cont":"A|解决git clone 速度慢"
     },
     {
         "href":"https://iui.su/1492/",
         "cont":"不死鸟-网页在线工具汇总"
     },
     {
-        "href":"https://www.nite07.com/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD(Onedrive)",
-        "cont":"nite07小窝-资源下载"
+        "href":"https://www.nite07.com/u/nite07",
+        "cont":"A|Nite07小窝-资源下载"
     },
 
     {
@@ -835,16 +839,8 @@ var arr = [
         "cont":"前端面试准备"
     },
     {
-        "href":"https://inv.n8pjl.ca/feed/popular",
-        "cont":"inv.n8pjl.ca.youtube"
-    },
-    {
-        "href":"https://invidious.jing.rocks/feed/popular",
-        "cont":"jing.rocks.youtube"
-    },
-    {
         "href":"https://qiushuizy.com/",
-        "cont":"秋水资源"
+        "cont":"A|秋水资源"
     },
 //镜像站加速
 // https://moeyy.cn/gh-proxy
@@ -1051,7 +1047,7 @@ var arr = [
     },
     {
         "href":"https://www.yutu.cn/",
-        "cont":"羽兔网·软件下载"
+        "cont":"A|羽兔网·软件下载"
     },
     {
         "href":"https://paste.fastmirror.net/",
@@ -1063,7 +1059,7 @@ var arr = [
     },
     {
         "href":"https://jc.pep.com.cn/",
-        "cont":"中小学教材电子版"
+        "cont":"A|中小学教材电子版"
     },
     {
         "href":"https://www.hifini.com/",
@@ -1565,6 +1561,127 @@ var arr = [
         "cont":"A|开源电子阅读|koodo-reader"
     },
     // 2024.07.19
+    {
+        "href":"https://photo2poem.top/",
+        "cont":"诗境 - 通过AI为照片匹配诗句，生成分享卡片"
+    },
+    {
+        "href":"https://hanfu.in/",
+        "cont":"汉服网"
+    },
+    {
+        "href":"https://aliyunpan1.com/",
+        "cont":"A|阿里云盘资源论坛"
+    },
+    {
+        "href":"https://chat18.aichatos8.com/#/chat/1721573199345",
+        "cont":"AAA|AI·chatOS"
+    },
+    {
+        "href":"https://www.lengcat.cn/",
+        "cont":"AAA|冷猫导航站"
+    },
+    {
+        "href":"https://www.j00j.com/",
+        "cont":"A|美剧网"
+    },
+    {
+        "href":"https://tool.lu/mine/",
+        "cont":"A|在线工具"
+    },
+    {
+        "href":"https://n.mumingfang.com/ai",
+        "cont":"A|AI网址导航"
+    },
+    {
+        "href":"https://jetbrains.asiones.com/",
+        "cont":"JetBrains 系列全家桶激活服务器"
+    },
+    {
+        "href":"https://shdpyq.com/",
+        "cont":"天天影视"
+    },
+    {
+        "href":"https://chat.moyanaigc.com/#/sceneModel/work",
+        "cont":"A|工作台-陌言"
+    },
+    {
+        "href":"https://urlapp.org/apps/app2024072200006/2048game",
+        "cont":"A|2048小游戏"
+    },
+    {
+        "href":"https://play2048.co/",
+        "cont":"A|2048小游戏"
+    },
+    {
+        "href":"https://www.islide.cc/",
+        "cont":"iSlide-PPT模板下载平台"
+    },
+    {
+        "href":"https://meta.appinn.net/",
+        "cont":"小众软件论坛"
+    },
+    {
+        "href":"https://music.wandhi.com/",
+        "cont":"music_download"
+    },
+    {
+        "href":"https://chandler.bet/#/overView",
+        "cont":"ai|chandler"
+    },
+    {
+        "href":"https://tmioe.com/",
+        "cont":"ZAPRO·杂铺-高质量影视资讯与技术分享平台"
+    },
+    {
+        "href":"https://zeabur.com/zh-CN",
+        "cont":"Zeabur-Deploy Painlessly,Scale Infinitely"
+    },
+    {
+        "href":"http://www.cuishuaiwen.com:8000/zh/",
+        "cont":"A|Eureka"
+    },
+    {
+        "href":"http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/",
+        "cont":"使用MkDocs和Material主题搭建技术博客"
+    },
+    {
+        "href":"https://www.mkdocs.org/",
+        "cont":"mkdocs"
+    },
+    {
+        "href":"https://michael18811380328.github.io/",
+        "cont":"A|michael18811380328"
+    },
+    {
+        "href":"https://markdown-docs-zh.readthedocs.io/zh-cn/latest/",
+        "cont":"A|MkDocs 中文文档"
+    },
+    {
+        "href":"https://mydramalist.com/",
+        "cont":"MyDramalist-亚洲影视资讯平台"
+    },
+    {
+        "href":"https://alphacoders.com/",
+        "cont":"Alpha Coders-Wallpapers"
+    },
+    {
+        "href":"https://wangchujiang.com/free-font/",
+        "cont":"商用免费字体"
+    },
+    {
+        "href":"https://minsonlee.github.io",
+        "cont":"minsonlee"
+    },
+    {
+        "href":"https://www.rikua.com/",
+        "cont":"字幕下载"
+    },
+    {
+        "href":"https://3.jetbra.in/",
+        "cont":"Jetbrains激活码地址"
+    },
+    //2024.08.01
     {
 		"href":"",
 		"cont":""

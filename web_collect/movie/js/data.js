@@ -73,7 +73,7 @@ var arr = [
     },
     {
         "href":"https://gimy.ai/",
-        "cont":"gimy剧迷"
+        "cont":"A-moive|gimy剧迷"
     },
     {
         "href":"https://gfvod.com/",
@@ -317,11 +317,11 @@ var arr = [
 	},
 	{
 		"href" : "https://www.4kvm.site",
-		"cont" : "A|4kvm"
+		"cont" : "A-moive|4kvm"
 	},
 	{
 		"href" : "https://www.dbmp4.com/",
-		"cont" : "A|dbmp4"
+		"cont" : "A-moive|dbmp4"
 	},
 	{
 		"href" : "https://www.05jl.com/",
@@ -337,7 +337,247 @@ var arr = [
 	},
     {
         "href":"http://svip.zhuiying.cyou/",
-        "cont":"A|追影视频"
+        "cont":"A-moive|追影视频"
+    },
+    {
+        "href":"https://fjvtw.com/",
+        "cont":"A-moive|金牌影院"
+    },
+    {
+        "href":"https://kimivod.com/",
+        "cont":"A-moive|kimivod·电影电视剧"
+    },
+    {
+        "href":"https://bttwo.vip/",
+        "cont":"A-moive|BT影视"
+    },
+    {
+        "href":"https://www.meijumi.net/",
+        "cont":"A-moive|美剧迷"
+    },
+    {
+        "href":"https://www.modianyyds.com/",
+        "cont":"A-moive|墨点影视"
+    },
+    {
+        "href":"https://haikuoshijie.cn/archives/fang-yuan-ying-shi-chang-jian-wen-ti",
+        "cont":"小棉袄软件汇总"
+    },
+    {
+        "href":"https://dlpanda.com/zh-CN",
+        "cont":"A-movie|在线下载抖音"
+    },
+    {
+        "href":"https://douyin.wtf/docs#/",
+        "cont":"Douyin TikTok Download API"
+    },
+    {
+        "href":"https://douyin.wtf/",
+        "cont":"Douyin TikTok Download API"
+    },
+    {
+        "href":"https://www.mcoun.com/",
+        "cont":"A-moive|清风影院·proxy"
+    },
+    {
+        "href":"https://www.wobotv.com/",
+        "cont":"A-moive|我播"
+    },
+    {
+        "href":"https://bttwo.vip/",
+        "cont":"A|BT影视"
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
+    },
+    {
+        "href":"",
+        "cont":""
     },
     {
         "href":"",

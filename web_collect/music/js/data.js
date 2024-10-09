@@ -58,7 +58,7 @@ var arr = [
     //2024.06.25
     {
         "href":"https://music.bestgeek.org/#/",
-        "cont":"A|极客音乐"
+        "cont":"A-music|极客音乐"
     },
     {
 		"href":"https://tools.liumingye.cn/music/#/",
@@ -78,7 +78,7 @@ var arr = [
 	},
     {
         "href":"https://www.qqyin.com/",
-        "cont":"A|QQ音速网"
+        "cont":"A-music|QQ音速网"
     },
     // 2024.07.19
     {
@@ -88,6 +88,14 @@ var arr = [
     {
         "href":"https://www.yintu.me/",
         "cont":"音兔无损|music"
+    },
+    {
+        "href":"https://www.wxy97.com/archives/1f81713e-0ffc-4f5c-b4cc-6acb111e0062",
+        "cont":"A-music|WXY音乐自由"
+    },
+    {
+        "href":"https://piano.bqrdh.com/#/",
+        "cont":"A-music|钢琴online"
     },
     {
         "href":"",

@@ -25,11 +25,11 @@ var arr = [
 	},
 	{
 		"href":"https://macwk.cn/",
-		"cont":"A|mac-software"
+		"cont":"A-moive|mac-software"
 	},
     {
 		"href":"https://www.bmabk.com/",
-		"cont":"A|极客之音"
+		"cont":"A-moive|极客之音"
 	},
 	{
 		"href":"https://stackblitz.com/",
@@ -823,7 +823,7 @@ var arr = [
     },
     {
         "href":"https://www.bmabk.com/index.php/post/73251.html",
-        "cont":"A|解决git clone 速度慢"
+        "cont":"A-moive|解决git clone 速度慢"
     },
     {
         "href":"https://iui.su/1492/",
@@ -831,7 +831,7 @@ var arr = [
     },
     {
         "href":"https://www.nite07.com/u/nite07",
-        "cont":"A|Nite07小窝-资源下载"
+        "cont":"A-moive|Nite07小窝-资源下载"
     },
 
     {
@@ -840,7 +840,7 @@ var arr = [
     },
     {
         "href":"https://qiushuizy.com/",
-        "cont":"A|秋水资源"
+        "cont":"A-moive|秋水资源"
     },
 //镜像站加速
 // https://moeyy.cn/gh-proxy
@@ -868,11 +868,6 @@ var arr = [
         "href":"https://agit.ai/",
         "cont":"Agit-面向AI发开者-代码托管服务"
     },
-    {
-        "href":"https://www.freedidi.com/",
-        "cont":"零度解说"
-    },
-
     {
         "href":"https://www.ittel.cn/",
         "cont":"技术之家"
@@ -938,16 +933,12 @@ var arr = [
         "cont":"阿里搜"
     },
     {
-        "href":"https://www.freedidi.com/",
-        "cont":"零度博客"
-    },
-    {
         "href":"https://m3u.ibert.me/",
         "cont":"iptv-sources | Autoupdate iptv sources"
     },
     {
         "href":"https://quickref.cn/",
-        "cont":"A|开发人员·速查表 | Quick Reference"
+        "cont":"A-moive|开发人员·速查表 | Quick Reference"
     },
     {
         "href":"https://wordforest.cn/",
@@ -955,7 +946,7 @@ var arr = [
     },
     {
         "href":"https://word-wind.pages.dev/",
-        "cont":"A|单词之风"
+        "cont":"A-moive|单词之风"
     },
     {
         "href":"https://fzk.szlib.com/pc/home",
@@ -999,11 +990,11 @@ var arr = [
     },
     {
         "href":"https://it-tools.tech/",
-        "cont":"IT-TOOLS·助理开发人员和IT工作者·A"
+        "cont":"A-source|IT-TOOLS·助理开发人员和IT工作者·A"
     },
     {
         "href":"https://dxh.me/",
-        "cont":"Ding Xiao Hui-BLOG·A"
+        "cont":"A-source|古文·古诗|Ding Xiao Hui-BLOG·A"
     },
     {
         "href":"https://github-rank.cms.im/",
@@ -1047,7 +1038,7 @@ var arr = [
     },
     {
         "href":"https://www.yutu.cn/",
-        "cont":"A|羽兔网·软件下载"
+        "cont":"A-moive|羽兔网·软件下载"
     },
     {
         "href":"https://paste.fastmirror.net/",
@@ -1059,7 +1050,7 @@ var arr = [
     },
     {
         "href":"https://jc.pep.com.cn/",
-        "cont":"A|中小学教材电子版"
+        "cont":"A-moive|中小学教材电子版"
     },
     {
         "href":"https://www.hifini.com/",
@@ -1283,11 +1274,11 @@ var arr = [
     //content
     {
         "href":"https://paste.fastmirror.net/",
-        "cont":"A|创建文档"
+        "cont":"A-moive|创建文档"
     },
     {
         "href":"https://www.modevol.com/",
-        "cont":"A|渐构Modevol"
+        "cont":"A-moive|渐构Modevol"
     },
     {
         "href":"https://hellogithub.com/",
@@ -1445,19 +1436,19 @@ var arr = [
     },
     {
         "href":"https://zsk.ai/home",
-        "cont":"A|发现优秀的知识库"
+        "cont":"A-moive|发现优秀的知识库"
     },
     {
         "href":"https://www.opkfc.com/list",
-        "cont":"A|数字玩家·ChatGPT账号"
+        "cont":"A-moive|数字玩家·ChatGPT账号"
     },
     {
         "href":"https://666666.dev/#/",
-        "cont":"A|IT人必备工具箱"
+        "cont":"A-moive|IT人必备工具箱"
     },
     {
         "href":"https://www.qqyin.com/",
-        "cont":"A|QQ音速网"
+        "cont":"A-moive|QQ音速网"
     },
     {
         "href":"https://www.wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118",
@@ -1473,7 +1464,7 @@ var arr = [
     },
     {
         "href":"http://svip.zhuiying.cyou/",
-        "cont":"A|追影视频"
+        "cont":"A-moive|追影视频"
     },
     //2024.07.08
     {
@@ -1498,7 +1489,7 @@ var arr = [
     },
     {
         "href":"https://keai.cm/",
-        "cont":"A|可爱TV"
+        "cont":"A-moive|可爱TV"
     },
     {
         "href":"https://laozhaopianai.com/",
@@ -1518,7 +1509,7 @@ var arr = [
     },
     {
         "href":"https://tophub.today/c/blog",
-        "cont":"A|今日热榜·专栏"
+        "cont":"A-moive|今日热榜·专栏"
     },
     {
         "href":"https://techbrood.com/",
@@ -1534,7 +1525,7 @@ var arr = [
     },
     {
         "href":"https://ejsoon.win/",
-        "cont":"A|天蒼人頡–發掘好玩事物"
+        "cont":"A-moive|天蒼人頡–發掘好玩事物"
     },
     {
         "href":"https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc",
@@ -1546,19 +1537,19 @@ var arr = [
     },
     {
         "href":"https://book-db-v1.saltyleo.com/",
-        "cont":"A|SaltyLeo的图书元数据API"
+        "cont":"A-moive|SaltyLeo的图书元数据API"
     },
     {
         "href":"https://book.tstrs.me/",
-        "cont":"A|SaltyLeo的书架|图书搜索"
+        "cont":"A-moive|SaltyLeo的书架|图书搜索"
     },
     {
         "href":"https://saltyleo.com/",
-        "cont":"A|SaltyLeo的博客"
+        "cont":"A-moive|SaltyLeo的博客"
     },
     {
         "href":"https://www.koodoreader.com/zh",
-        "cont":"A|开源电子阅读|koodo-reader"
+        "cont":"A-moive|开源电子阅读|koodo-reader"
     },
     // 2024.07.19
     {
@@ -1571,27 +1562,27 @@ var arr = [
     },
     {
         "href":"https://aliyunpan1.com/",
-        "cont":"A|阿里云盘资源论坛"
+        "cont":"A-moive|阿里云盘资源论坛"
     },
     {
         "href":"https://chat18.aichatos8.com/#/chat/1721573199345",
-        "cont":"AAA|AI·chatOS"
+        "cont":"AAA-moive|AI·chatOS"
     },
     {
         "href":"https://www.lengcat.cn/",
-        "cont":"AAA|冷猫导航站"
+        "cont":"AAA-moive|冷猫导航站"
     },
     {
         "href":"https://www.j00j.com/",
-        "cont":"A|美剧网"
+        "cont":"A-moive|美剧网"
     },
     {
         "href":"https://tool.lu/mine/",
-        "cont":"A|在线工具"
+        "cont":"A-moive|在线工具"
     },
     {
         "href":"https://n.mumingfang.com/ai",
-        "cont":"A|AI网址导航"
+        "cont":"A-moive|AI网址导航"
     },
     {
         "href":"https://jetbrains.asiones.com/",
@@ -1603,15 +1594,15 @@ var arr = [
     },
     {
         "href":"https://chat.moyanaigc.com/#/sceneModel/work",
-        "cont":"A|工作台-陌言"
+        "cont":"A-moive|工作台-陌言"
     },
     {
         "href":"https://urlapp.org/apps/app2024072200006/2048game",
-        "cont":"A|2048小游戏"
+        "cont":"A-moive|2048小游戏"
     },
     {
         "href":"https://play2048.co/",
-        "cont":"A|2048小游戏"
+        "cont":"A-moive|2048小游戏"
     },
     {
         "href":"https://www.islide.cc/",
@@ -1639,7 +1630,7 @@ var arr = [
     },
     {
         "href":"http://www.cuishuaiwen.com:8000/zh/",
-        "cont":"A|Eureka"
+        "cont":"A-moive|Eureka"
     },
     {
         "href":"http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/",
@@ -1651,11 +1642,11 @@ var arr = [
     },
     {
         "href":"https://michael18811380328.github.io/",
-        "cont":"A|michael18811380328"
+        "cont":"A-moive|michael18811380328"
     },
     {
         "href":"https://markdown-docs-zh.readthedocs.io/zh-cn/latest/",
-        "cont":"A|MkDocs 中文文档"
+        "cont":"A-moive|MkDocs 中文文档"
     },
     {
         "href":"https://mydramalist.com/",
@@ -1683,9 +1674,703 @@ var arr = [
     },
     //2024.08.01
     {
-		"href":"",
-		"cont":""
-	},
+        "href":"https://nowhots.com/",
+        "cont":"A-moive|即时热点"
+    },
+    {
+        "href":"https://qianp.com/",
+        "cont":"A-moive|千篇网"
+    },
+    {
+        "href":"https://source.zgqinc.gq/",
+        "cont":"A-moive|各种源大型整合"
+    },
+    {
+        "href":"https://www.napkin.ai/",
+        "cont":"A-moive|AI将文字转可视化"
+    },
+    {
+        "href":"https://xiaodundun.net/",
+        "cont":"A-moive|攒劲小蹲蹲"
+    },
+    {
+        "href":"https://thoughts.teambition.com/share/63e49fc707956f0045d3ebbc",
+        "cont":"英语学习"
+    },
+    {
+        "href":"https://pan.fccp.in/",
+        "cont":"A-source|FCCP网盘"
+    },
+    {
+        "href":"https://www.aliyundrive.com/s/j7Z6PsXgDxv",
+        "cont":"DK-英语"
+    },
+    {
+        "href":"https://vk.com/wall534911818_2103",
+        "cont":"A-source|DK-英语"
+    },
+    {
+        "href":"https://z-lib.id/",
+        "cont":"ebook-download"
+    },
+    {
+        "href":"https://gutenberg.org/",
+        "cont":"A-source|Ebooks-search"
+    },
+    {
+        "href":"https://daohangxie.com/",
+        "cont":"导航蟹"
+    },
+    {
+        "href":"https://media.zidi.me/%E7%94%B5%E8%A7%86%E5%89%A7/%E6%B8%AF%E5%8F%B0/TVB/%E7%BB%8F%E5%85%B8%E6%AD%A6%E4%BE%A0%E5%89%A7/%E9%87%91%E5%BA%B8/%E3%80%9001%E3%80%91%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.1985",
+        "cont":"A-source|小姐姐的仓库"
+    },
+    {
+        "href":"https://media.zidi.me/",
+        "cont":"A-source|小姐姐的仓库"
+    },
+    {
+        "href":"https://www.icourse163.org/",
+        "cont":"中国大学MOOC"
+    },
+    {
+        "href":"https://4275.com/",
+        "cont":"免登录网盘"
+    },
+    {
+        "href":"https://dl.askk.cc/cmcc",
+        "cont":"cmcc | Sukanka 的仓库cpa"
+    },
+    {
+        "href":"https://zxcs.dmnb.cf/",
+        "cont":"cmcc | Sukanka 的仓库cpb"
+    },
+    {
+        "href":"https://zxcs.4everland.app/#/",
+        "cont":"cmcc | Sukanka 的仓库cpc"
+    },
+    {
+        "href":"https://tianya.at/?s=reload",
+        "cont":"天涯神贴"
+    },
+    {
+        "href":"https://ueg.cc/",
+        "cont":"文本处理器"
+    },
+    {
+        "href":"https://ilovejigsaw.com/",
+        "cont":"A-moive|拼图"
+    },
+    {
+        "href":"https://siliconcat.net/",
+        "cont":"硅猫 SoC|计算机参数"
+    },
+    {
+        "href":"https://public.work/",
+        "cont":"A-moive|无版权图库"
+    },
+    {
+        "href":"https://yan.ognai.com/",
+        "cont":"A-moive|颜语"
+    },
+    {
+        "href":"https://snaptik.biz/zh-cn",
+        "cont":"A-moive|youtube-download"
+    },
+    {
+        "href":"https://www.kumeiwp.com/",
+        "cont":"A-moive|酷美网盘"
+    },
+    {
+        "href":"https://www.gfxtra31.com/",
+        "cont":"A-moive|gfxtra31.proxy"
+    },
+    {
+        "href":"https://pan.baidu.com/s/12J7mt6fuwmrCkVgNn4xWAQ?pwd=cbm6",
+        "cont":"A-source|DK-英语"
+    },
+    {
+        "href":"https://www.douban.com/",
+        "cont":"豆瓣网"
+    },
+    {
+        "href":"https://zhale.me/",
+        "cont":"A-source|网络拨测工具"
+    },
+    {
+        "href":"https://vercel.com/signup",
+        "cont":"vercel.com"
+    },
+    {
+        "href":"https://whoer.com/zh/",
+        "cont":"A-source|IP地址查询"
+    },
+    {
+        "href":"https://www.hou4.com/",
+        "cont":"A-source|软件大全"
+    },
+    {
+        "href":"https://www.fang1688.cn/",
+        "cont":"方包博客"
+    },
+    {
+        "href":"https://johnserf-seed.github.io/f2/",
+        "cont":"A-moive|Fast 2 EveryFast 2 Every"
+    },
+    {
+        "href":"https://gotranscript.com/subtitle-converter",
+        "cont":"A-soure字幕转换"
+    },
+    {
+        "href":"https://www.cnblogs.com/wpjamer",
+        "cont":"wpjamer"
+    },
+    {
+        "href":"https://z.etocs.us.kg/",
+        "cont":"电子书下载"
+    },
+    {
+        "href":"https://jpom.top/",
+        "cont":"Jpom项目运维"
+    },
+    {
+        "href":"https://yunpan8.cc/",
+        "cont":"云盘吧·AAAAA"
+    },
+    {
+        "href":"http://v.kepu.net.cn/mooc/qb/",
+        "cont":"中国科普博览"
+    },
+    {
+        "href":"https://pubscholar.cn/",
+        "cont":"PubScholar公益学术平台"
+    },
+    {
+        "href":"https://music.bestgeek.org/#/",
+        "cont":"极客音乐"
+    },
+    {
+        "href":"https://zzz.mihoyo.com/main",
+        "cont":"绝区零"
+    },
+    {
+        "href":"https://zsk.ai/home",
+        "cont":"发现优秀的知识库"
+    },
+    {
+        "href":"https://www.opkfc.com/list",
+        "cont":"数字玩家·ChatGPT账号"
+    },
+    {
+        "href":"https://666666.dev/#/",
+        "cont":"IT人必备工具箱·AAAAA"
+    },
+    {
+        "href":"https://www.qqyin.com/",
+        "cont":"QQ音速网"
+    },
+    {
+        "href":"https://www.wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118",
+        "cont":"Java知识库网站收集整理 | AAAAA"
+    },
+    {
+        "href":"https://www.hello-algo.com/",
+        "cont":"Hello 算法 | AAAAA"
+    },
+    {
+        "href":"http://hpc.ncpgr.cn/",
+        "cont":"作重计算平台用户手册 | AAAAA"
+    },
+    {
+        "href":"http://zhuiying.cc/",
+        "cont":"追影TV"
+    },
+    {
+        "href":"https://www.okday.app/",
+        "cont":"日记软件"
+    },
+    {
+        "href":"https://mumingfang.com/",
+        "cont":"创意坊|霂明坊"
+    },
+    {
+        "href":"https://www.ahhhhfs.com/60035/",
+        "cont":"ChatGPT+MJ+SD – AIGC专题"
+    },
+    {
+        "href":"https://so.gitee.com/",
+        "cont":"Gitee Search - 开源软件搜索"
+    },
+    {
+        "href":"https://js.okten.cn/",
+        "cont":"《JavaScript 权威指南第七版》中英对照"
+    },
+    {
+        "href":"https://keai.cm/",
+        "cont":"可爱TV|AAAAA"
+    },
+    {
+        "href":"https://laozhaopianai.com/",
+        "cont":"AI老照片生成器"
+    },
+    {
+        "href":"https://klingai.kuaishou.com/",
+        "cont":"可灵AI-新一代AI创意生产力平台"
+    },
+    {
+        "href":"https://zh.annas-archive.li/",
+        "cont":"安娜的档案|图书下载"
+    },
+    {
+        "href":"https://mgb.abyssdawn.com/#/index",
+        "cont":"情报主页-魔盒"
+    },
+    {
+        "href":"https://tophub.today/c/blog",
+        "cont":"今日热榜|专栏·AAAAA"
+    },
+    {
+        "href":"https://techbrood.com/",
+        "cont":"踏得|沉浸式互联网体验和学习门户"
+    },
+    {
+        "href":"https://www.sass.hk/docs/",
+        "cont":"Sass中文网|SCSS"
+    },
+    {
+        "href":"https://kspider.kangert.top/",
+        "cont":"在线可视化爬虫平台"
+    },
+    {
+        "href":"https://wusunk.com/",
+        "cont":"无损库资源|music"
+    },
+    {
+        "href":"https://www.yintu.me/",
+        "cont":"音兔无损|music"
+    },
+    {
+        "href":"https://ejsoon.win/",
+        "cont":"A-source|天蒼人頡–發掘好玩事物"
+    },
+    {
+        "href":"https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc",
+        "cont":"英语提升指南"
+    },
+    {
+        "href":"https://flix.center/",
+        "cont":"Flix快传"
+    },
+    {
+        "href":"https://book-db-v1.saltyleo.com/",
+        "cont":"SaltyLeo 的图书元数据 API|AAAAA"
+    },
+    {
+        "href":"https://book.tstrs.me/",
+        "cont":"SaltyLeo的书架|图书搜索|AAAA"
+    },
+    {
+        "href":"https://saltyleo.com/",
+        "cont":"SaltyLeo的博客|AAAA"
+    },
+    {
+        "href":"https://www.koodoreader.com/zh",
+        "cont":"A-source|开源电子阅读|koodo-reader"
+    },
+    {
+        "href":"https://photo2poem.top/",
+        "cont":"诗境 - 通过AI为照片匹配诗句，生成分享卡片"
+    },
+    {
+        "href":"https://hanfu.in/",
+        "cont":"汉服网"
+    },
+    {
+        "href":"https://aliyunpan1.com/",
+        "cont":"A-source|阿里云盘资源论坛"
+    },
+    {
+        "href":"https://chat18.aichatos8.com/#/chat/1721573199345",
+        "cont":"AAA-source|AI·chatOS"
+    },
+    {
+        "href":"https://www.lengcat.cn/",
+        "cont":"AAA-source|冷猫导航站"
+    },
+    {
+        "href":"https://www.j00j.com/",
+        "cont":"A-source|美剧网"
+    },
+    {
+        "href":"https://tool.lu/mine/",
+        "cont":"A-source|在线工具"
+    },
+    {
+        "href":"https://n.mumingfang.com/ai",
+        "cont":"A-source|AI网址导航"
+    },
+    {
+        "href":"https://jetbrains.asiones.com/",
+        "cont":"JetBrains 系列全家桶激活服务器"
+    },
+    {
+        "href":"https://shdpyq.com/",
+        "cont":"天天影视"
+    },
+    {
+        "href":"https://chat.moyanaigc.com/#/sceneModel/work",
+        "cont":"A-source|工作台-陌言"
+    },
+    {
+        "href":"https://urlapp.org/apps/app2024072200006/2048game",
+        "cont":"A-source|2048小游戏"
+    },
+    {
+        "href":"https://play2048.co/",
+        "cont":"A-source|2048小游戏"
+    },
+    {
+        "href":"https://www.islide.cc/",
+        "cont":"iSlide-PPT模板下载平台"
+    },
+    {
+        "href":"https://meta.appinn.net/",
+        "cont":"小众软件论坛"
+    },
+    {
+        "href":"https://music.wandhi.com/",
+        "cont":"music_download"
+    },
+    {
+        "href":"https://chandler.bet/#/overView",
+        "cont":"ai|chandler"
+    },
+    {
+        "href":"https://tmioe.com/",
+        "cont":"ZAPRO·杂铺-高质量影视资讯与技术分享平台"
+    },
+    {
+        "href":"https://zeabur.com/zh-CN",
+        "cont":"Zeabur-Deploy Painlessly,Scale Infinitely"
+    },
+    {
+        "href":"http://www.cuishuaiwen.com:8000/zh/",
+        "cont":"A-source|Eureka"
+    },
+    {
+        "href":"http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/",
+        "cont":"使用MkDocs和Material主题搭建技术博客"
+    },
+    {
+        "href":"https://www.mkdocs.org/",
+        "cont":"mkdocs"
+    },
+    {
+        "href":"https://michael18811380328.github.io/",
+        "cont":"A-source|michael18811380328"
+    },
+    {
+        "href":"https://markdown-docs-zh.readthedocs.io/zh-cn/latest/",
+        "cont":"A-source|MkDocs 中文文档"
+    },
+    {
+        "href":"https://mydramalist.com/",
+        "cont":"MyDramalist-亚洲影视资讯平台"
+    },
+    {
+        "href":"https://alphacoders.com/",
+        "cont":"Alpha Coders-Wallpapers"
+    },
+    {
+        "href":"https://wangchujiang.com/free-font/",
+        "cont":"商用免费字体"
+    },
+    {
+        "href":"https://minsonlee.github.io",
+        "cont":"minsonlee"
+    },
+    {
+        "href":"https://www.rikua.com/",
+        "cont":"字幕下载"
+    },
+    {
+        "href":"https://3.jetbra.in/",
+        "cont":"Jetbrains激活码地址"
+    },
+    {
+        "href":"https://www.xzbzq.com/",
+        "cont":"学子备战墙"
+    },
+    {
+        "href":"https://iui.su/hot/",
+        "cont":"A-source|search"
+    },
+    {
+        "href":"https://yyjingyan.com/",
+        "cont":"有用经验"
+    },
+    {
+        "href":"https://www.maokan.cc/",
+        "cont":"A-source|白噪音"
+    },
+    {
+        "href":"https://datong.io/ui/index.html",
+        "cont":"大同搜索"
+    },
+    {
+        "href":"https://9.234456.xyz/abc.html?t=567",
+        "cont":"V2RAY"
+    },
+    {
+        "href":"https://git.zx2c4.com/wireguard-windows",
+        "cont":"wireguard-mirror"
+    },
+    {
+        "href":"https://v2rayn.org/",
+        "cont":"最新 v2rayN 使用教程快速入门篇"
+    },
+    {
+        "href":"https://blog.starryvoid.com/archives/337.html",
+        "cont":"WireGuard 搭建方法与使用教程"
+    },
+    {
+        "href":"https://www.vumstar.com/",
+        "cont":"vum星球"
+    },
+    {
+        "href":"https://github.com/GFW-knocker/MahsaNG.git",
+        "cont":"A-source|MahsaNG|online"
+    },
+    {
+        "href":"https://github.com/chen08209/FlClash.git",
+        "cont":"FlClash"
+    },
+    {
+        "href":"https://kjgx668.blogspot.com/2024/07/2024vpnflclashwindowswindowslinuxmacos.html",
+        "cont":"FlClash-BLOG"
+    },
+    {
+        "href":"https://favorites.pages.dev/new",
+        "cont":"A-source|收藏"
+    },
+    {
+        "href":"https://www.gitbook.com/",
+        "cont":"GitBook"
+    },
+    {
+        "href":"https://appsj.szxuexiao.com/",
+        "cont":"小学试卷网"
+    },
+    {
+        "href":"https://w2.apachecn.org/",
+        "cont":"A-source|组织云盘合集"
+    },
+    {
+        "href":"https://www.kejixiaolu.com/index.html",
+        "cont":"科技小露·科学上网"
+    },
+    {
+        "href":"https://kji.gitbook.io/vn",
+        "cont":"2024·科学上网"
+    },
+    {
+        "href":"https://kejilion.blogspot.com/",
+        "cont":"科技blog"
+    },
+    {
+        "href":"https://www.trancy.org/",
+        "cont":"trancy"
+    },
+    {
+        "href":"https://css.bqrdh.com/cdn/hub",
+        "cont":"选取最优 cdn"
+    },
+    {
+        "href":"https://ittools.cc/",
+        "cont":"工具网址导航"
+    },
+    {
+        "href":"http://yydsvip.ysepan.com/",
+        "cont":"A-source|资源集"
+    },
+    {
+        "href":"https://www.wanrenmi8.com/cn/index.html",
+        "cont":"A-source|云盘导航"
+    },
+    {
+        "href":"https://tuostudy.upnb.top/",
+        "cont":"A-source|图欧学习导航"
+    },
+    {
+        "href":"https://iui.su/3093/",
+        "cont":"发现有趣的东西"
+    },
+    {
+        "href":"https://ilingban.com/",
+        "cont":"灵办AI"
+    },
+    {
+        "href":"https://cjkgirls.com/",
+        "cont":"瀑布流美女分享"
+    },
+    {
+        "href":"https://tts.femoon.top/cn",
+        "cont":"A-source|Azure Text To Speech(TTS)|语音生成TTS"
+    },
+    {
+        "href":"https://502book.com/",
+        "cont":"A-source|502book小说"
+    },
+    {
+        "href":"https://www.talktalkai.com/",
+        "cont":"A-source|AI·音乐"
+    },
+    {
+        "href":"https://npm.io/",
+        "cont":"A-source|npm包搜索"
+    },
+    {
+        "href":"https://hot.ittools.cc/#/",
+        "cont":"A-source|今日热榜"
+    },
+    {
+        "href":"https://www.coze.cn/",
+        "cont":"扣子-AI智能体开发平台"
+    },
+    {
+        "href":"https://copilot.microsoft.com/",
+        "cont":"copilot·AI助手"
+    },
+    {
+        "href":"https://www.freedidi.com/",
+        "cont":"A-source|零度解说freedidi"
+    },
+    {
+        "href":"https://urlapp.org/apps/app2024072500021/tetris-min",
+        "cont":"俄罗斯方块"
+    },
+    {
+        "href":"https://classcms.com/",
+        "cont":"内容管理系统"
+    },
+    {
+        "href":"https://blog.fjy.zone/",
+        "cont":"IT知识空间"
+    },
+    {
+        "href":"https://youtube.iiilab.com/",
+        "cont":"A-source|youtube-video-download"
+    },
+    {
+        "href":"http://www.potplayercn.com/course/2982.html",
+        "cont":"PotPlayer中文网"
+    },
+    {
+        "href":"2a09:bac5:638c:1250::1d3:22",
+        "cont":"google-search"
+    },
+    {
+        "href":"https://freetts.com",
+        "cont":"A-source|freetts-TTS"
+    },
+    {
+        "href":"https://ondoku3.com/zh-hans/",
+        "cont":"ondoku3-TTS"
+    },
+    {
+        "href":"https://www.xaudiopro.com/aivoice/",
+        "cont":"XAudioPro-TTS"
+    },
+    {
+        "href":"https://zenvideo.qq.com/",
+        "cont":"腾讯智影-TTS"
+    },
+    {
+        "href":"https://www.gamersky.com/tools/map/wukong/?mapId=48",
+        "cont":"黑神话·悟空"
+    },
+    {
+        "href":"https://diffsuite.com/",
+        "cont":"文本对比工具"
+    },
+    {
+        "href":"https://bbs.tatans.cn/topic/tag/%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB",
+        "cont":"音乐分享"
+    },
+    {
+        "href":"https://www.jihuola.cn/idea99.html",
+        "cont":"激活"
+    },
+    {
+        "href":"https://urlyzer.com/zh/get-metadata-from-url",
+        "cont":"网站元数据提取器"
+    },
+    {
+        "href":"https://www.freedidi.com/11958.html",
+        "cont":"ChatGPT·零度解说"
+    },
+    {
+        "href":"https://chatgpt.com/",
+        "cont":"chatGPT"
+    },
+    {
+        "href":"https://new.cherrychat.org/auth/register?inviteCode=H2GBMPNFL",
+        "cont":"樱桃茶·智域GPT"
+    },
+    {
+        "href":"https://freemp3cn.com/#/",
+        "cont":"A-source|freemp3"
+    },
+    {
+        "href":"https://xiayibendushenme.com/",
+        "cont":"下一本读什么"
+    },
+    {
+        "href":"https://cloudtts.com/",
+        "cont":"cloudtts"
+    },
+    {
+        "href":"https://stackblitz.com/",
+        "cont":"A-source|StackBlitz"
+    },
+    {
+        "href":"https://tools.liumingye.cn/music/#/",
+        "cont":"音乐·tools"
+    },
+    {
+        "href":"https://piano.bqrdh.com/#/",
+        "cont":"钢琴online"
+    },
+    {
+        "href":"https://stranslate.zggsong.com/",
+        "cont":"A-source|STranslate"
+    },
+    {
+        "href":"https://pdai.tech/md/resource/tools.html",
+        "cont":"A-source|资源导航"
+    },
+    {
+        "href":"https://mdgjx.com/",
+        "cont":"开源工具箱"
+    },
+    {
+        "href":"https://vultr.youmu.moe/quiz/",
+        "cont":"中国省级行政区划小测试"
+    },
+    {
+        "href":"https://24hbook.com/",
+        "cont":"A-source|24h搜书"
+    },
+    {
+        "href":"https://babyno.top/",
+        "cont":"A-source|路边的阿布"
+    },
+    {
+        "href":"https://www.bttwo.org/",
+        "cont":"A-source|BT下载和分享"
+    },
+
+    //2024.10.09
     {
 		"href":"",
 		"cont":""

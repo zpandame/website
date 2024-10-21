@@ -340,8 +340,16 @@ var arr = [
         "cont":"A-moive|追影视频"
     },
     {
-        "href":"https://fjvtw.com/",
-        "cont":"A-moive|金牌影院"
+        "href":"https://www.6umkq9b.com/",
+        "cont":"A-movie|金牌影院-a"
+    },
+    {
+        "href":"https://www.shifante.com/",
+        "cont":"A-movie|金牌影院-b"
+    },
+    {
+        "href":"https://www.ruiteqiche.com/",
+        "cont":"A-movie|金牌影院-c"
     },
     {
         "href":"https://kimivod.com/",

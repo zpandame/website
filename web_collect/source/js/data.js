@@ -2372,7 +2372,7 @@ var arr = [
 
     //2024.10.09
     {
-		"href":"/website/web_collect/source/index.html",
+		"href":"/website/web_collect/source/pwd.html",
 		"cont":"pwd"
 	},
     {
